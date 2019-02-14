@@ -10,7 +10,9 @@ RUN git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git \
     && cd jupyterlab-metadata-service \
     && git checkout ee4e8e5f1228d2f73e5c4e431492a510036a40f8 \
     && cd backend \
-    && pip install -e .
+    && pip install -e . \
+    && cd jupyterlab_metadata_service_server \
+    && npm install
 RUN git clone https://github.com/jupyterlab/jupyterlab-commenting.git \
     && cd jupyterlab-commenting \
     && git checkout 58e11b321a7341ef73a388b4dbc6807b2874f194

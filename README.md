@@ -8,7 +8,7 @@ a scratch space.
 
 ```bash
 docker build -t rich-context-demo .
-docker run --rm -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "$PWD":/app rich-context-demo
+docker run --rm -p 8888:8888 -v "$PWD":/app rich-context-demo
 ```
 
 To rebuild from source:
