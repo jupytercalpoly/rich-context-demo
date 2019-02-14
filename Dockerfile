@@ -5,7 +5,7 @@ FROM jupyter/scipy-notebook:45b8529a6bfc
 
 RUN git clone --single-branch --branch databus https://github.com/jupyterlab/jupyterlab.git \
     && cd jupyterlab \
-    && git checkout df4a56711290bb8715601179be7112252dbbe35f
+    && git checkout 53fc5378366041ba93fc4631d14ae1c3a16f45d8
 RUN git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git \
     && cd jupyterlab-metadata-service \
     && git checkout ee4e8e5f1228d2f73e5c4e431492a510036a40f8 \
