@@ -8,7 +8,7 @@ RUN git clone --single-branch --branch databus https://github.com/jupyterlab/jup
     && git checkout df4a56711290bb8715601179be7112252dbbe35f
 RUN git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git \
     && cd jupyterlab-metadata-service \
-    && git checkout d26752d14fe1f433708dc000a9b79d12e017ae13 \
+    && git checkout ee4e8e5f1228d2f73e5c4e431492a510036a40f8 \
     && cd backend \
     && pip install -e .
 RUN git clone https://github.com/jupyterlab/jupyterlab-commenting.git \
@@ -17,8 +17,9 @@ RUN git clone https://github.com/jupyterlab/jupyterlab-commenting.git \
 
 WORKDIR ./jupyterlab
 RUN pip install -e .
-RUN jlpm run add:sibling ../jupyterlab-metadata-service/frontend ../jupyterlab-commenting
+RUN jlpm run add:sibling ../jupyterlab-metadata-service/frontend 
+RUN jlpm run add:sibling ../jupyterlab-commenting
 RUN jlpm build:dev
 RUN jupyter lab build --dev
-
 workdir /app
+CMD jupyter lab --dev
