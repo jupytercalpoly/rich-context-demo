@@ -10,7 +10,7 @@ This uses [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/usage.htm
 ```bash
 python3 -m pip install jupyter-repo2docker
 # Mount only `src` directory so we don't clobber `build` directory with built files.
-jupyter-repo2docker -v "$PWD/src:/home/jovyan/src" .
+jupyter-repo2docker -v "$PWD/src:/home/$USER/src" .
 ```
 
 Now you can edit any files in the `src` directory in JupyterLab and those edits will be reflected in your host directory.
