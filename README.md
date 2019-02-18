@@ -1,19 +1,27 @@
 # rich-context-demo
 
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupytercalpoly/rich-context-demo/master?urlpath=lab/tree/src/Notebook.ipynb)
+
 The goal of this repo is to build a docker image that can launch quickly
 and have the datastore, metadata, and commenting all working.
 
-You should also be able to mount your current directory in the image and use it as
-a scratch space.
+This uses [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/usage.html) to create a Dockerfile, build it, and start it up:
 
 ```bash
-docker build -t rich-context-demo .
-docker run --rm -p 8888:8888 -v "$PWD":/app rich-context-demo
+python3 -m pip install jupyter-repo2docker
+# Mount only `src` directory so we don't clobber `build` directory with built files.
+jupyter-repo2docker -v "$PWD/src:/home/jovyan/src" .
 ```
 
-To rebuild from source:
+Now you can edit any files in the `src` directory in JupyterLab and those edits will be reflected in your host directory.
 
-```bash
-docker rmi rich-context-demo
-docker build -t rich-context-demo .
-```
+
+## FAQ
+
+Q: Why use repo2docker instead of a Dockerfile?
+A: We want it to be able to run on Binder so we need to make sure it works with their workflow. It's better to have one tool to
+   run local and hosted usage so that we only need to make things work once.
+
+Q: Shouldn't we check in the dependencies into this repo with submodules or subtree?
+A: Possibly... It is simpler just to clone in the `binder/postBuild`, but if we included it in the repo then it wouldn't have to
+   be re-cloned on every build (better caching).
