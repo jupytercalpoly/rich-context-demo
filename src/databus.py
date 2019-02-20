@@ -18,8 +18,7 @@ def display_url_dataset(url):
     display_dataset(f'application/x.jupyter.resolve', url, None)
 
 def display_file_dataset(path):
-    display_dataset(f'application/x.jupyter.resolver', f"file:///{path}", None)
-
+    display_url_dataset(f"file:///{path}")
     
 def display_pandas_dataset(dataframe):
     path = 'tmp.csv'
