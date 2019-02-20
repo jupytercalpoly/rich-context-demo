@@ -2,4 +2,4 @@
 set -o errexit
 set -o xtrace
 
-exec jupyter lab --dev --NotebookApp.allow_remote_access=True --no-browser "${@:3}"
+exec jupyter lab --dev --NotebookApp.allow_remote_access=True --no-browser --debug --ip 0.0.0.0 "${@:3}"
