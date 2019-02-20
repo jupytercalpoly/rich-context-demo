@@ -7,26 +7,26 @@ cd build
 
 git clone --single-branch --branch databus https://github.com/jupyterlab/jupyterlab.git
 cd jupyterlab
-git checkout 53fc5378366041ba93fc4631d14ae1c3a16f45d8
+git checkout 57f14b097a75fc6121858c3a50889027e21f93c9
 cd ..
 
 git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git
 cd jupyterlab-metadata-service
-git checkout 06c437bcab2b1a4547dc5de5f5e77a7644ab5327
+git checkout 2a1bf108cb22be3608f19caf2632f4028ca35a3f
 cd backend
 pip install -e .
 cd jupyterlab_metadata_service_server
 npm install
 cd ../../..
 
-git clone --single-branch --branch global_styling https://github.com/jupyterlab/jupyterlab-commenting.git
+git clone https://github.com/jupyterlab/jupyterlab-commenting.git
 cd jupyterlab-commenting
-git checkout 3ca6838fee49949fe3f03f09860c003be675cc44
+git checkout fe15466c34d299fb1e47093a5149898c2701b2bf
 cd ..
 
 cd jupyterlab
 pip install -e .
-jlpm run add:sibling ../jupyterlab-metadata-service/frontend 
+jlpm run add:sibling ../jupyterlab-metadata-service/frontend
 jlpm run add:sibling ../jupyterlab-commenting
 jlpm build:dev
 jupyter lab build --dev

@@ -1,0 +1,664 @@
+summary_level,soc_code,title,employment_2013,employment_2015,change_net,change_percent,annual_avg_openings_total,annual_avg_openings_growth,annual_avg_openings_replacement,annual_wages_2013_mean,annual_wages_2013_median,annual_wages_2013_entry,annual_wages_2013_experienced,typical_entry_education,work_experience,training_needed
+1,00-0000,"Total, All Occupations",571070,582670,11600,0.020312746,19710,6330,13380,47060,38010,21560,59810, , , 
+2,11-0000,Management Occupations,28980,29530,550,0.018978606,830,300,530,106050,93080,60630,128760, , , 
+3,11-1000,Top Executives,10210,10450,240,0.023506366,300,120,180,n/a,n/a,n/a,n/a, , , 
+4,11-1011,Chief Executives,1630,1640,10,0.006134969,40,10,30,150470,131660,83480,183960,Bachelor's degree,5 years or more,None
+4,11-1021,General and Operations Managers,7310,7550,240,0.032831737,240,120,120,111070,91630,58350,137420,Bachelor's degree,Less than 5 years,None
+4,11-1031,Legislators,1270,1270,0,0,30,0,30,83870,84420,71120,90240,Bachelor's degree,Less than 5 years,None
+3,11-2000,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",1550,1590,40,0.025806452,50,20,30,n/a,n/a,n/a,n/a, , , 
+4,11-2011,Advertising and Promotions Managers,90,90,0,0,0,0,0,106470,96320,65120,127150,Bachelor's degree,Less than 5 years,None
+4,11-2021,Marketing Managers,320,330,10,0.03125,20,10,10,131290,124540,77300,158280,Bachelor's degree,5 years or more,None
+4,11-2022,Sales Managers,770,790,20,0.025974026,30,10,20,127160,114190,68990,156250,Bachelor's degree,Less than 5 years,None
+4,11-2031,Public Relations and Fundraising Managers,370,380,10,0.027027027,10,0,10,93880,89560,57990,111830,Bachelor's degree,5 years or more,None
+3,11-3000,Operations Specialties Managers,6010,6150,140,0.023294509,170,70,100,n/a,n/a,n/a,n/a, , , 
+4,11-3011,Administrative Services Managers,1040,1050,10,0.009615385,20,10,10,93900,88430,57270,112220,Bachelor's degree,Less than 5 years,None
+4,11-3021,Computer and Information Systems Managers,1480,1520,40,0.027027027,40,20,20,115890,109970,84760,131450,Bachelor's degree,5 years or more,None
+4,11-3031,Financial Managers,1840,1860,20,0.010869565,40,10,30,116900,107090,75340,137680,Bachelor's degree,5 years or more,None
+4,11-3051,Industrial Production Managers,350,380,30,0.085714286,30,20,10,118890,99030,72540,142070,Bachelor's degree,5 years or more,None
+4,11-3061,Purchasing Managers,300,310,10,0.033333333,10,0,10,99750,90920,70730,114260,Bachelor's degree,5 years or more,None
+4,11-3071,"Transportation, Storage, and Distribution Managers",160,160,0,0,0,0,0,86070,82780,61240,98490,High school diploma or equivalent,5 years or more,None
+4,11-3111,Compensation and Benefits Managers,110,110,0,0,0,0,0,97550,93550,75830,108420,Bachelor's degree,5 years or more,None
+4,11-3121,Human Resources Managers,590,600,10,0.016949153,30,10,20,96010,87450,59010,114500,Bachelor's degree,5 years or more,None
+4,11-3131,Training and Development Managers,160,160,0,0,0,0,0,104620,92830,67860,123000,Bachelor's degree,5 years or more,None
+3,11-9000,Other Management Occupations,11210,11340,130,0.011596789,300,80,220,n/a,n/a,n/a,n/a, , , 
+4,11-9021,Construction Managers,1230,1260,30,0.024390244,30,10,20,85790,81230,57120,100120,Bachelor's degree,None,Moderate-term on-the-job training
+4,11-9031,"Education Administrators, Preschool and Childcare Center/Program",270,270,0,0,10,0,10,45000,38690,30600,52200,Bachelor's degree,Less than 5 years,None
+4,11-9032,"Education Administrators, Elementary and Secondary School",920,920,0,0,20,0,20,98320,100020,74110,110430,Master's degree,5 years or more,None
+4,11-9033,"Education Administrators, Postsecondary",800,820,20,0.025,30,10,20,99690,81570,47550,125760,Master's degree,5 years or more,None
+4,11-9039,"Education Administrators, All Other",60,60,0,0,0,0,0,92780,95210,67180,105580,Bachelor's degree,Less than 5 years,None
+4,11-9041,Architectural and Engineering Managers,390,410,20,0.051282051,20,10,10,145550,136110,97550,169560,Bachelor's degree,5 years or more,None
+4,11-9051,Food Service Managers,590,600,10,0.016949153,20,10,10,60830,55230,42040,70230,High school diploma or equivalent,Less than 5 years,None
+4,11-9111,Medical and Health Services Managers,1820,1860,40,0.021978022,60,20,40,102820,91490,67480,120490,Bachelor's degree,None,None
+4,11-9121,Natural Sciences Managers,160,160,0,0,0,0,0,119790,110710,83200,138090,Bachelor's degree,5 years or more,None
+4,11-9131,Postmasters and Mail Superintendents,840,830,-10,-0.011904762,20,0,20,63810,60640,49070,71180,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,11-9141,"Property, Real Estate, and Community Association Managers",390,400,10,0.025641026,20,10,10,84780,78170,50550,101900,High school diploma or equivalent,Less than 5 years,None
+4,11-9151,Social and Community Service Managers,870,880,10,0.011494253,30,10,20,72620,68580,47090,85380,Bachelor's degree,5 years or more,None
+4,11-9161,Emergency Management Directors,90,90,0,0,0,0,0,72820,71450,56550,80950,Bachelor's degree,5 years or more,None
+4,11-9199,"Managers, All Other",1220,1230,10,0.008196721,30,0,30,91400,86470,56260,108970,High school diploma or equivalent,Less than 5 years,None
+2,13-0000,Business and Financial Operations Occupations,30970,31480,510,0.016467549,900,270,630,66690,61290,42550,78760, , , 
+3,13-1000,Business Operations Specialists,18370,18760,390,0.021230267,500,200,300,n/a,n/a,n/a,n/a, , , 
+4,13-1022,"Wholesale and Retail Buyers, Except Farm Products",540,550,10,0.018518519,20,10,10,62430,61450,37140,75070,High school diploma or equivalent,None,Long-term on-the-job training
+4,13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",1080,1120,40,0.037037037,40,20,20,61120,58520,43370,70000,High school diploma or equivalent,None,Long-term on-the-job training
+4,13-1031,"Claims Adjusters, Examiners, and Investigators",2350,2360,10,0.004255319,50,0,50,61600,61400,42920,70940,High school diploma or equivalent,None,Long-term on-the-job training
+4,13-1041,Compliance Officers,1220,1230,10,0.008196721,20,0,20,62400,59120,45690,70750,Bachelor's degree,None,Moderate-term on-the-job training
+4,13-1051,Cost Estimators,700,720,20,0.028571429,30,10,20,65010,62320,43940,75540,Bachelor's degree,None,None
+4,13-1071,Human Resources Specialists,1250,1280,30,0.024,30,10,20,67240,57680,38920,81400,Bachelor's degree,None,None
+4,13-1074,Farm Labor Contractors,70,70,0,0,0,0,0,n/a,n/a,n/a,n/a,Less than high school,Less than 5 years,Short-term on-the-job training
+4,13-1075,Labor Relations Specialists,910,900,-10,-0.010989011,10,0,10,69200,64120,49460,79070,Bachelor's degree,None,None
+4,13-1081,Logisticians,170,180,10,0.058823529,10,10,0,70150,66650,48000,81230,Bachelor's degree,None,None
+4,13-1111,Management Analysts,2940,3000,60,0.020408163,70,30,40,78150,70210,47400,93530,Bachelor's degree,Less than 5 years,None
+4,13-1121,"Meeting, Convention, and Event Planners",440,470,30,0.068181818,30,20,10,46260,42890,32010,53390,Bachelor's degree,None,None
+4,13-1131,Fundraisers,340,360,20,0.058823529,20,10,10,56460,53760,27370,71000,Bachelor's degree,None,None
+4,13-1141,"Compensation, Benefits, and Job Analysis Specialists",850,850,0,0,10,0,10,54510,49380,39800,61870,Bachelor's degree,None,None
+4,13-1151,Training and Development Specialists,1500,1540,40,0.026666667,40,20,20,59230,57180,39130,69280,Bachelor's degree,Less than 5 years,None
+4,13-1161,Market Research Analysts and Marketing Specialists,1500,1590,90,0.06,60,40,20,62830,57620,35900,76290,Bachelor's degree,None,None
+4,13-1199,"Business Operations Specialists, All Other",2340,2360,20,0.008547009,40,10,30,69320,66280,44670,81640,High school diploma or equivalent,None,None
+3,13-2000,Financial Specialists,12590,12720,130,0.010325655,400,70,330,n/a,n/a,n/a,n/a, , , 
+4,13-2011,Accountants and Auditors,5900,6000,100,0.016949153,220,50,170,69100,65280,46020,80640,Bachelor's degree,None,None
+4,13-2021,Appraisers and Assessors of Real Estate,420,420,0,0,0,0,0,53900,53010,40740,60490,Bachelor's degree,None,Long-term on-the-job training
+4,13-2031,Budget Analysts,590,600,10,0.016949153,30,10,20,66080,65710,49330,74460,Bachelor's degree,None,None
+4,13-2041,Credit Analysts,110,110,0,0,0,0,0,83890,75580,53990,98840,Bachelor's degree,None,None
+4,13-2051,Financial Analysts,790,800,10,0.012658228,30,10,20,78920,70570,49110,93830,Bachelor's degree,None,None
+4,13-2052,Personal Financial Advisors,620,630,10,0.016129032,20,10,10,110210,89160,57980,136320,Bachelor's degree,None,None
+4,13-2053,Insurance Underwriters,880,860,-20,-0.022727273,20,0,20,73870,71030,47920,86840,Bachelor's degree,None,Moderate-term on-the-job training
+4,13-2071,Credit Counselors,110,110,0,0,0,0,0,44720,41410,32720,50720,Bachelor's degree,None,Moderate-term on-the-job training
+4,13-2072,Loan Officers,690,690,0,0,10,0,10,73070,59180,39230,90000,Bachelor's degree,None,Moderate-term on-the-job training
+4,13-2081,"Tax Examiners and Collectors, and Revenue Agents",1880,1880,0,0,60,0,60,55480,50710,41870,62280,Bachelor's degree,None,Moderate-term on-the-job training
+4,13-2082,Tax Preparers,210,210,0,0,0,0,0,53350,36160,26950,66550,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,13-2099,"Financial Specialists, All Other",370,370,0,0,0,0,0,57920,47820,34720,69530,Bachelor's degree,None,Moderate-term on-the-job training
+2,15-0000,Computer and Mathematical Occupations,16800,17370,570,0.033928571,550,280,270,72200,70880,46300,85150, , , 
+3,15-1100,Computer Occupations,16240,16770,530,0.032635468,520,270,250,n/a,n/a,n/a,n/a, , , 
+4,15-1111,Computer and Information Research Scientists,180,190,10,0.055555556,0,0,0,88690,86310,65300,100390,Doctoral or professional degree,None,None
+4,15-1121,Computer Systems Analysts,3340,3470,130,0.038922156,120,70,50,74050,74430,54220,83960,Bachelor's degree,None,None
+4,15-1122,Information Security Analysts,190,210,20,0.105263158,10,10,0,89080,85140,55600,105820,Bachelor's degree,Less than 5 years,None
+4,15-1131,Computer Programmers,3080,3110,30,0.00974026,90,10,80,76180,74080,55590,86470,Bachelor's degree,None,None
+4,15-1132,"Software Developers, Applications",1980,2090,110,0.055555556,80,60,20,81420,78360,55840,94210,Bachelor's degree,None,None
+4,15-1133,"Software Developers, Systems Software",650,690,40,0.061538462,30,20,10,88380,83260,59180,102980,Bachelor's degree,None,None
+4,15-1134,Web Developers,600,630,30,0.05,30,20,10,59730,58700,39520,69840,Associate's degree,None,None
+4,15-1141,Database Administrators,760,770,10,0.013157895,10,0,10,75470,79750,51240,87580,Bachelor's degree,Less than 5 years,None
+4,15-1142,Network and Computer Systems Administrators,1580,1600,20,0.012658228,30,10,20,71000,72050,49160,81920,Bachelor's degree,None,None
+4,15-1143,Computer Network Architects,480,490,10,0.020833333,20,10,10,90110,86580,62400,103970,Bachelor's degree,5 years or more,None
+4,15-1151,Computer User Support Specialists,2450,2550,100,0.040816327,80,50,30,47170,45150,31010,55260,"Some college, no degree",None,Moderate-term on-the-job training
+4,15-1152,Computer Network Support Specialists,540,560,20,0.037037037,20,10,10,63450,60320,43410,73460,Associate's degree,None,None
+4,15-1199,"Computer Occupations, All Other",400,410,10,0.025,20,10,10,76740,78190,49440,90400,Bachelor's degree,None,None
+3,15-2000,Mathematical Science Occupations,570,600,30,0.052631579,30,20,10,n/a,n/a,n/a,n/a, , , 
+4,15-2011,Actuaries,160,170,10,0.0625,0,0,0,103050,99750,64010,122570,Bachelor's degree,None,Long-term on-the-job training
+4,15-2031,Operations Research Analysts,290,320,30,0.103448276,20,10,10,74010,68960,48250,86890,Bachelor's degree,None,None
+4,15-2041,Statisticians,70,70,0,0,0,0,0,68190,63340,40400,82080,Master's degree,None,None
+2,17-0000,Architecture and Engineering Occupations,9880,10740,860,0.087044534,660,440,220,78250,74660,48620,93060, , , 
+3,17-1000,"Architects, Surveyors, and Cartographers",750,750,0,0,20,0,20,n/a,n/a,n/a,n/a, , , 
+4,17-1011,"Architects, Except Landscape and Naval",450,450,0,0,10,0,10,78400,77470,51640,91780,Bachelor's degree,None,Internship/residency
+4,17-1012,Landscape Architects,150,150,0,0,0,0,0,76490,71620,54700,87380,Bachelor's degree,None,Internship/residency
+4,17-1022,Surveyors,130,130,0,0,0,0,0,59300,58260,38510,69700,Bachelor's degree,Less than 5 years,None
+3,17-2000,Engineers,6230,6920,690,0.110754414,500,350,150,n/a,n/a,n/a,n/a, , , 
+4,17-2041,Chemical Engineers,160,160,0,0,0,0,0,86290,80890,59480,99700,Bachelor's degree,None,None
+4,17-2051,Civil Engineers,1630,1670,40,0.024539877,60,20,40,84990,83780,62750,96120,Bachelor's degree,None,None
+4,17-2061,Computer Hardware Engineers,90,90,0,0,0,0,0,106020,101960,71540,123260,Bachelor's degree,None,None
+4,17-2071,Electrical Engineers,1340,1700,360,0.268656716,210,180,30,101910,101170,69320,118200,Bachelor's degree,None,None
+4,17-2072,"Electronics Engineers, Except Computer",170,180,10,0.058823529,10,10,0,81970,77500,62620,91650,Bachelor's degree,None,None
+4,17-2081,Environmental Engineers,550,560,10,0.018181818,20,10,10,84800,84660,64690,94850,Bachelor's degree,None,None
+4,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",130,130,0,0,0,0,0,78870,77420,59620,88490,Bachelor's degree,None,None
+4,17-2112,Industrial Engineers,930,1160,230,0.247311828,140,110,30,94870,92650,65040,109790,Bachelor's degree,None,None
+4,17-2131,Materials Engineers,70,80,10,0.142857143,0,0,0,81700,81350,56310,94400,Bachelor's degree,None,None
+4,17-2141,Mechanical Engineers,880,900,20,0.022727273,40,10,30,88260,84640,58770,103010,Bachelor's degree,None,None
+4,17-2199,"Engineers, All Other",190,190,0,0,0,0,0,87680,86720,60240,101400,Bachelor's degree,None,None
+3,17-3000,"Drafters, Engineering Technicians, and Mapping Technicians",2900,3070,170,0.05862069,140,90,50,n/a,n/a,n/a,n/a, , , 
+4,17-3011,Architectural and Civil Drafters,390,390,0,0,10,0,10,48820,47640,37110,54680,Associate's degree,None,None
+4,17-3012,Electrical and Electronics Drafters,100,110,10,0.1,0,0,0,54390,48310,38180,62490,Associate's degree,None,None
+4,17-3013,Mechanical Drafters,200,200,0,0,0,0,0,51940,47420,36630,59590,Associate's degree,None,None
+4,17-3019,"Drafters, All Other",60,60,0,0,0,0,0,47170,47240,40030,50730,Associate's degree,None,None
+4,17-3022,Civil Engineering Technicians,190,190,0,0,0,0,0,56330,54510,39770,64610,Associate's degree,None,None
+4,17-3023,Electrical and Electronics Engineering Technicians,670,760,90,0.134328358,60,50,10,60810,61620,44170,69130,Associate's degree,None,None
+4,17-3025,Environmental Engineering Technicians,120,120,0,0,0,0,0,46420,45940,30910,54180,Associate's degree,None,None
+4,17-3026,Industrial Engineering Technicians,470,550,80,0.170212766,50,40,10,57700,56630,42990,65050,Associate's degree,None,None
+4,17-3027,Mechanical Engineering Technicians,160,160,0,0,0,0,0,49110,43310,30110,58600,Associate's degree,None,None
+4,17-3029,"Engineering Technicians, Except Drafters, All Other",330,330,0,0,10,0,10,57020,56470,39630,65720,Associate's degree,None,None
+4,17-3031,Surveying and Mapping Technicians,170,170,0,0,0,0,0,53140,52030,34360,62530,High school diploma or equivalent,None,Moderate-term on-the-job training
+2,19-0000,"Life, Physical, and Social Science Occupations",9800,9950,150,0.015306122,370,90,280,60310,55840,34210,73350, , , 
+3,19-1000,Life Scientists,1430,1450,20,0.013986014,40,10,30,n/a,n/a,n/a,n/a, , , 
+4,19-1021,Biochemists and Biophysicists,270,280,10,0.037037037,10,0,10,65110,63590,45660,74830,Doctoral or professional degree,None,None
+4,19-1022,Microbiologists,150,150,0,0,0,0,0,62230,56000,41010,72840,Bachelor's degree,None,None
+4,19-1031,Conservation Scientists,80,70,-10,-0.125,0,0,0,60260,58830,49320,65730,Bachelor's degree,None,None
+4,19-1042,"Medical Scientists, Except Epidemiologists",690,700,10,0.014492754,20,10,10,n/a,n/a,n/a,n/a,Doctoral or professional degree,None,None
+4,19-1099,"Life Scientists, All Other",70,70,0,0,0,0,0,62410,57850,53090,67070,Bachelor's degree,None,None
+3,19-2000,Physical Scientists,1940,1940,0,0,60,10,50,n/a,n/a,n/a,n/a, , , 
+4,19-2021,Atmospheric and Space Scientists,70,70,0,0,0,0,0,91140,90190,71320,101050,Bachelor's degree,None,None
+4,19-2031,Chemists,320,330,10,0.03125,10,0,10,74000,71740,50930,85540,Bachelor's degree,None,None
+4,19-2032,Materials Scientists,100,100,0,0,0,0,0,92440,85050,55610,110860,Bachelor's degree,None,None
+4,19-2041,"Environmental Scientists and Specialists, Including Health",500,500,0,0,10,0,10,67800,69530,43450,79970,Bachelor's degree,None,None
+4,19-2042,"Geoscientists, Except Hydrologists and Geographers",280,290,10,0.035714286,10,0,10,73780,75140,49900,85720,Bachelor's degree,None,None
+4,19-2099,"Physical Scientists, All Other",590,590,0,0,10,0,10,90620,87530,64340,103760,Bachelor's degree,None,None
+3,19-3000,Social Scientists and Related Workers,2190,2230,40,0.01826484,70,20,50,n/a,n/a,n/a,n/a, , , 
+4,19-3011,Economists,90,90,0,0,0,0,0,90040,85110,59500,105310,Master's degree,None,None
+4,19-3022,Survey Researchers,190,190,0,0,0,0,0,80500,81420,63300,89090,Master's degree,None,None
+4,19-3031,"Clinical, Counseling, and School Psychologists",860,870,10,0.011627907,30,10,20,67430,64960,45410,78440,Doctoral or professional degree,None,Internship/residency
+4,19-3051,Urban and Regional Planners,150,150,0,0,10,0,10,64260,60380,45790,73500,Master's degree,None,None
+4,19-3093,Historians,80,80,0,0,0,0,0,35250,29530,26460,39640,Master's degree,None,None
+4,19-3099,"Social Scientists and Related Workers, All Other",370,370,0,0,10,0,10,84250,83940,59960,96390,Bachelor's degree,None,None
+3,19-4000,"Life, Physical, and Social Science Technicians",4240,4320,80,0.018867925,190,40,150,n/a,n/a,n/a,n/a, , , 
+4,19-4021,Biological Technicians,860,880,20,0.023255814,40,10,30,43200,43740,38530,45540,Bachelor's degree,None,None
+4,19-4031,Chemical Technicians,730,740,10,0.01369863,30,10,20,58740,63480,37730,69240,Associate's degree,None,Moderate-term on-the-job training
+4,19-4041,Geological and Petroleum Technicians,60,60,0,0,0,0,0,80720,72510,43450,99360,Associate's degree,None,Moderate-term on-the-job training
+4,19-4061,Social Science Research Assistants,1230,1260,30,0.024390244,60,10,50,34560,30620,20150,41770,Associate's degree,None,None
+4,19-4091,"Environmental Science and Protection Technicians, Including Health",200,200,0,0,10,0,10,50540,52410,28030,61800,Associate's degree,None,None
+4,19-4092,Forensic Science Technicians,130,130,0,0,10,0,10,64270,64990,49230,71790,Bachelor's degree,None,Moderate-term on-the-job training
+4,19-4093,Forest and Conservation Technicians,50,50,0,0,0,0,0,48680,45610,37310,54360,Associate's degree,None,None
+4,19-4099,"Life, Physical, and Social Science Technicians, All Other",940,950,10,0.010638298,50,10,40,40040,38460,29220,45450,Associate's degree,None,None
+2,21-0000,Community and Social Service Occupations,12610,12830,220,0.017446471,390,120,270,46390,44300,27050,56060, , , 
+3,21-1000,"Counselors, Social Workers, and Other Community and Social Service Specialists",11400,11610,210,0.018421053,360,110,250,n/a,n/a,n/a,n/a, , , 
+4,21-1011,Substance Abuse and Behavioral Disorder Counselors,620,640,20,0.032258065,20,10,10,37230,35580,27000,42350,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,21-1012,"Educational, Guidance, School, and Vocational Counselors",1340,1370,30,0.02238806,40,10,30,59180,57880,41390,68080,Master's degree,None,None
+4,21-1013,Marriage and Family Therapists,140,140,0,0,0,0,0,33950,29540,26040,37900,Master's degree,None,Internship/residency
+4,21-1014,Mental Health Counselors,590,600,10,0.016949153,20,10,10,34150,30980,24800,38820,Master's degree,None,Internship/residency
+4,21-1015,Rehabilitation Counselors,820,830,10,0.012195122,30,10,20,35260,32550,25560,40110,Master's degree,None,None
+4,21-1019,"Counselors, All Other",170,180,10,0.058823529,0,0,0,50740,38790,27980,62120,Master's degree,None,None
+4,21-1021,"Child, Family, and School Social Workers",1720,1740,20,0.011627907,50,10,40,48960,48220,28470,59210,Bachelor's degree,None,None
+4,21-1022,Healthcare Social Workers,760,790,30,0.039473684,40,20,20,49700,48820,38190,55460,Master's degree,None,None
+4,21-1023,Mental Health and Substance Abuse Social Workers,580,590,10,0.017241379,10,0,10,57720,56900,37870,67640,Bachelor's degree,None,None
+4,21-1029,"Social Workers, All Other",790,790,0,0,20,0,20,54340,53740,42940,60030,Bachelor's degree,None,None
+4,21-1091,Health Educators,470,480,10,0.021276596,20,10,10,48380,48810,26170,59490,Bachelor's degree,None,None
+4,21-1092,Probation Officers and Correctional Treatment Specialists,490,490,0,0,10,0,10,62070,60020,48290,68960,Bachelor's degree,None,Short-term on-the-job training
+4,21-1093,Social and Human Service Assistants,1860,1890,30,0.016129032,70,20,50,34370,31260,21960,40580,High school diploma or equivalent,None,Short-term on-the-job training
+4,21-1094,Community Health Workers,240,240,0,0,10,0,10,52250,51510,28600,64080,High school diploma or equivalent,None,Short-term on-the-job training
+4,21-1099,"Community and Social Service Specialists, All Other",840,850,10,0.011904762,30,10,20,49890,50050,28490,60590,Master's degree,None,None
+3,21-2000,Religious Workers,1210,1220,10,0.008264463,40,10,30,n/a,n/a,n/a,n/a, , , 
+4,21-2011,Clergy,930,940,10,0.010752688,30,10,20,47810,39000,24550,59440,Bachelor's degree,None,Moderate-term on-the-job training
+4,21-2021,"Directors, Religious Activities and Education",170,170,0,0,10,0,10,32150,30230,23350,36540,Bachelor's degree,Less than 5 years,None
+4,21-2099,"Religious Workers, All Other",110,110,0,0,0,0,0,26680,26870,23810,28120,Bachelor's degree,None,None
+2,23-0000,Legal Occupations,6320,6300,-20,-0.003164557,90,0,90,93840,82750,46310,117600, , , 
+3,23-1000,"Lawyers, Judges, and Related Workers",4650,4630,-20,-0.004301075,70,0,70,n/a,n/a,n/a,n/a, , , 
+4,23-1011,Lawyers,3420,3410,-10,-0.002923977,50,0,50,111840,96020,66160,134680,Doctoral or professional degree,None,None
+4,23-1022,"Arbitrators, Mediators, and Conciliators",390,390,0,0,10,0,10,77050,75650,57830,86660,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+4,23-1023,"Judges, Magistrate Judges, and Magistrates",330,330,0,0,10,0,10,133210,136170,120460,139580,Doctoral or professional degree,5 years or more,Short-term on-the-job training
+3,23-2000,Legal Support Workers,1680,1680,0,0,30,0,30,n/a,n/a,n/a,n/a, , , 
+4,23-2011,Paralegals and Legal Assistants,880,880,0,0,10,0,10,48840,48220,34950,55780,Associate's degree,None,None
+4,23-2091,Court Reporters,120,120,0,0,0,0,0,46340,30760,25090,56970,Postsecondary non-degree award,None,Short-term on-the-job training
+4,23-2093,"Title Examiners, Abstractors, and Searchers",190,190,0,0,0,0,0,49700,50080,36390,56350,High school diploma or equivalent,None,Short-term on-the-job training
+4,23-2099,"Legal Support Workers, All Other",480,480,0,0,10,0,10,46910,44360,32070,54330,High school diploma or equivalent,None,Short-term on-the-job training
+2,25-0000,"Education, Training, and Library Occupations",44950,45550,600,0.013348165,1180,330,850,52610,46470,24660,66590, , , 
+3,25-1000,Postsecondary Teachers,9920,10220,300,0.030241935,310,170,140,n/a,n/a,n/a,n/a, , , 
+4,25-1011,"Business Teachers, Postsecondary",530,540,10,0.018867925,10,0,10,70360,54360,40450,85320,Doctoral or professional degree,None,None
+4,25-1021,"Computer Science Teachers, Postsecondary",250,260,10,0.04,10,10,0,85170,83040,47280,104120,Doctoral or professional degree,None,None
+4,25-1022,"Mathematical Science Teachers, Postsecondary",370,370,0,0,10,0,10,69180,58540,41920,82800,Doctoral or professional degree,None,None
+4,25-1032,"Engineering Teachers, Postsecondary",440,450,10,0.022727273,20,10,10,104150,98990,65590,123430,Doctoral or professional degree,None,None
+4,25-1042,"Biological Science Teachers, Postsecondary",620,640,20,0.032258065,20,10,10,80650,76090,47990,96970,Doctoral or professional degree,None,None
+4,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",90,90,0,0,0,0,0,84680,74360,44040,104990,Doctoral or professional degree,None,None
+4,25-1052,"Chemistry Teachers, Postsecondary",220,230,10,0.045454545,0,0,0,72320,64610,41470,87740,Doctoral or professional degree,None,None
+4,25-1054,"Physics Teachers, Postsecondary",160,160,0,0,0,0,0,86700,82000,46960,106570,Doctoral or professional degree,None,None
+4,25-1061,"Anthropology and Archeology Teachers, Postsecondary",80,80,0,0,0,0,0,65900,65440,38970,79360,Doctoral or professional degree,None,None
+4,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",80,80,0,0,0,0,0,71130,63900,35840,88770,Doctoral or professional degree,None,None
+4,25-1063,"Economics Teachers, Postsecondary",130,130,0,0,0,0,0,87470,88490,48670,106860,Doctoral or professional degree,None,None
+4,25-1065,"Political Science Teachers, Postsecondary",140,140,0,0,0,0,0,86580,84450,58520,100610,Doctoral or professional degree,None,None
+4,25-1066,"Psychology Teachers, Postsecondary",310,320,10,0.032258065,0,0,0,71140,67800,44640,84400,Doctoral or professional degree,None,None
+4,25-1067,"Sociology Teachers, Postsecondary",210,210,0,0,0,0,0,63810,56970,38010,76710,Doctoral or professional degree,None,None
+4,25-1069,"Social Sciences Teachers, Postsecondary, All Other",130,130,0,0,0,0,0,68380,67100,39980,82590,Doctoral or professional degree,None,None
+4,25-1071,"Health Specialties Teachers, Postsecondary",1500,1600,100,0.066666667,70,50,20,149950,134000,63700,">$187,200",Doctoral or professional degree,Less than 5 years,None
+4,25-1072,"Nursing Instructors and Teachers, Postsecondary",330,350,20,0.060606061,10,10,0,70600,59830,43340,84230,Master's degree,Less than 5 years,None
+4,25-1081,"Education Teachers, Postsecondary",440,450,10,0.022727273,20,10,10,68280,64860,42330,81260,Doctoral or professional degree,None,None
+4,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",90,90,0,0,0,0,0,66550,54330,42880,78380,Doctoral or professional degree,None,None
+4,25-1112,"Law Teachers, Postsecondary",200,210,10,0.05,0,0,0,115100,105540,63890,140700,Doctoral or professional degree,None,None
+4,25-1121,"Art, Drama, and Music Teachers, Postsecondary",710,730,20,0.028169014,20,10,10,64820,61280,42180,76130,Master's degree,None,None
+4,25-1122,"Communications Teachers, Postsecondary",90,90,0,0,0,0,0,69480,64250,43270,82580,Doctoral or professional degree,None,None
+4,25-1123,"English Language and Literature Teachers, Postsecondary",570,580,10,0.01754386,20,10,10,63110,58460,39670,74820,Doctoral or professional degree,None,None
+4,25-1124,"Foreign Language and Literature Teachers, Postsecondary",180,190,10,0.055555556,0,0,0,69520,68770,46190,81180,Doctoral or professional degree,None,None
+4,25-1125,"History Teachers, Postsecondary",210,210,0,0,0,0,0,65540,64130,38980,78810,Doctoral or professional degree,None,None
+4,25-1126,"Philosophy and Religion Teachers, Postsecondary",120,120,0,0,0,0,0,63000,59080,36170,76420,Doctoral or professional degree,None,None
+4,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",100,100,0,0,0,0,0,58420,49420,38060,68600,Doctoral or professional degree,None,None
+4,25-1194,"Vocational Education Teachers, Postsecondary",260,270,10,0.038461538,0,0,0,55390,54910,36390,64890,Bachelor's degree,Less than 5 years,None
+4,25-1199,"Postsecondary Teachers, All Other",390,400,10,0.025641026,20,10,10,n/a,n/a,n/a,n/a,Doctoral or professional degree,None,None
+3,25-2000,"Preschool, Primary, Secondary, and Special Education School Teachers",15790,15930,140,0.008866371,430,70,360,n/a,n/a,n/a,n/a, , , 
+4,25-2011,"Preschool Teachers, Except Special Education",1220,1230,10,0.008196721,40,10,30,30540,27950,20750,35430,Associate's degree,None,None
+4,25-2012,"Kindergarten Teachers, Except Special Education",660,670,10,0.015151515,20,0,20,48250,46560,26480,59140,Bachelor's degree,None,Internship/residency
+4,25-2021,"Elementary School Teachers, Except Special Education",4130,4190,60,0.014527845,120,30,90,60350,58580,41790,69630,Bachelor's degree,None,Internship/residency
+4,25-2022,"Middle School Teachers, Except Special and Career/Technical Education",2230,2260,30,0.013452915,70,20,50,63510,61130,47510,71500,Bachelor's degree,None,Internship/residency
+4,25-2023,"Career/Technical Education Teachers, Middle School",170,170,0,0,0,0,0,64850,59940,48880,72830,Bachelor's degree,Less than 5 years,Internship/residency
+4,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",4040,4060,20,0.004950495,120,10,110,62770,60340,46410,70950,Bachelor's degree,None,Internship/residency
+4,25-2032,"Career/Technical Education Teachers, Secondary School",530,530,0,0,10,0,10,63110,60190,48550,70390,Bachelor's degree,Less than 5 years,Internship/residency
+4,25-2051,"Special Education Teachers, Preschool",290,300,10,0.034482759,10,10,0,48470,45120,38550,53420,Bachelor's degree,None,Internship/residency
+4,25-2052,"Special Education Teachers, Kindergarten and Elementary School",840,840,0,0,10,0,10,61360,58440,44920,69570,Bachelor's degree,None,Internship/residency
+4,25-2053,"Special Education Teachers, Middle School",550,550,0,0,10,0,10,60120,57870,44620,67870,Bachelor's degree,None,Internship/residency
+4,25-2054,"Special Education Teachers, Secondary School",1100,1100,0,0,20,0,20,66170,64900,50120,74200,Bachelor's degree,None,Internship/residency
+3,25-3000,Other Teachers and Instructors,8370,8450,80,0.009557945,180,40,140,n/a,n/a,n/a,n/a, , , 
+4,25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors,710,710,0,0,10,0,10,54000,54370,35990,63000,Bachelor's degree,None,Internship/residency
+4,25-3021,Self-Enrichment Education Teachers,1630,1670,40,0.024539877,50,20,30,40400,38330,21180,50000,High school diploma or equivalent,Less than 5 years,None
+4,25-3098,Substitute Teachers,5090,5100,10,0.001964637,80,0,80,29440,29000,24660,31830,Bachelor's degree,None,Internship/residency
+4,25-3099,"Teachers and Instructors, All Other",940,970,30,0.031914894,30,10,20,58460,56260,28510,73430,Bachelor's degree,None,Internship/residency
+3,25-4000,"Librarians, Curators, and Archivists",1620,1620,0,0,60,0,60,n/a,n/a,n/a,n/a, , , 
+4,25-4011,Archivists,50,50,0,0,0,0,0,41780,30340,27300,49020,Master's degree,None,None
+4,25-4012,Curators,120,120,0,0,0,0,0,59540,47720,39000,69810,Master's degree,None,None
+4,25-4013,Museum Technicians and Conservators,70,70,0,0,0,0,0,58390,56100,49430,62860,Bachelor's degree,None,None
+4,25-4021,Librarians,870,860,-10,-0.011494253,20,0,20,56780,55690,40360,64990,Master's degree,None,None
+4,25-4031,Library Technicians,520,520,0,0,30,0,30,29930,27830,19230,35290,Postsecondary non-degree award,None,None
+3,25-9000,"Other Education, Training, and Library Occupations",9250,9340,90,0.00972973,220,50,170,n/a,n/a,n/a,n/a, , , 
+4,25-9031,Instructional Coordinators,1000,1020,20,0.02,20,10,10,61550,56780,40590,72040,Master's degree,5 years or more,None
+4,25-9041,Teacher Assistants,7290,7330,40,0.005486968,180,20,160,24540,22820,17090,28260,"Some college, no degree",None,None
+4,25-9099,"Education, Training, and Library Workers, All Other",890,930,40,0.04494382,20,20,0,n/a,n/a,n/a,n/a,Bachelor's degree,None,None
+2,27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",11110,11260,150,0.01350135,340,100,240,49850,42700,25890,61820, , , 
+3,27-1000,Art and Design Workers,2890,2930,40,0.01384083,90,20,70,n/a,n/a,n/a,n/a, , , 
+4,27-1011,Art Directors,170,170,0,0,0,0,0,92970,73820,52170,113360,Bachelor's degree,5 years or more,None
+4,27-1012,Craft Artists,120,120,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Long-term on-the-job training
+4,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",180,180,0,0,0,0,0,46520,45150,40530,49520,High school diploma or equivalent,None,Long-term on-the-job training
+4,27-1014,Multimedia Artists and Animators,220,230,10,0.045454545,20,10,10,60650,57710,42520,69710,Bachelor's degree,None,Moderate-term on-the-job training
+4,27-1023,Floral Designers,340,340,0,0,10,0,10,27550,24370,20530,31060,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,27-1024,Graphic Designers,690,700,10,0.014492754,30,10,20,48300,45070,29580,57660,Bachelor's degree,None,None
+4,27-1025,Interior Designers,220,220,0,0,10,0,10,57730,56250,38120,67540,Bachelor's degree,None,None
+4,27-1026,Merchandise Displayers and Window Trimmers,300,300,0,0,10,0,10,30570,27800,21270,35220,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,27-2000,"Entertainers and Performers, Sports and Related Workers",2910,2970,60,0.020618557,110,30,80,n/a,n/a,n/a,n/a, , , 
+4,27-2011,Actors,220,220,0,0,10,0,10,n/a,n/a,n/a,n/a,"Some college, no degree",None,Long-term on-the-job training
+4,27-2012,Producers and Directors,410,430,20,0.048780488,20,10,10,58300,47660,31300,71800,Bachelor's degree,Less than 5 years,None
+4,27-2022,Coaches and Scouts,860,900,40,0.046511628,50,20,30,41130,35900,22970,50210,Bachelor's degree,None,None
+4,27-2023,"Umpires, Referees, and Other Sports Officials",60,60,0,0,0,0,0,36060,34430,25690,41240,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,27-2041,Music Directors and Composers,530,530,0,0,10,0,10,50140,50870,26410,62000,Bachelor's degree,Less than 5 years,None
+4,27-2042,Musicians and Singers,600,600,0,0,20,0,20,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Long-term on-the-job training
+4,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",90,90,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,None
+3,27-3000,Media and Communication Workers,4060,4070,10,0.002463054,100,30,70,n/a,n/a,n/a,n/a, , , 
+4,27-3011,Radio and Television Announcers,170,180,10,0.058823529,0,0,0,64850,37110,21090,86730,Bachelor's degree,None,None
+4,27-3012,Public Address System and Other Announcers,110,110,0,0,0,0,0,53270,49610,28830,65490,High school diploma or equivalent,None,Short-term on-the-job training
+4,27-3022,Reporters and Correspondents,230,220,-10,-0.043478261,10,0,10,56260,47510,29070,69850,Bachelor's degree,None,None
+4,27-3031,Public Relations Specialists,1560,1600,40,0.025641026,40,20,20,55510,48460,33220,66650,Bachelor's degree,None,None
+4,27-3041,Editors,800,780,-20,-0.025,20,0,20,54420,38990,27580,67850,Bachelor's degree,Less than 5 years,None
+4,27-3042,Technical Writers,110,110,0,0,0,0,0,65310,66120,46590,74670,Bachelor's degree,Less than 5 years,Short-term on-the-job training
+4,27-3043,Writers and Authors,710,710,0,0,10,0,10,59300,52670,38080,69910,Bachelor's degree,None,Moderate-term on-the-job training
+4,27-3099,"Media and Communication Workers, All Other",90,90,0,0,0,0,0,47240,46380,33320,54200,High school diploma or equivalent,None,Short-term on-the-job training
+3,27-4000,Media and Communication Equipment Workers,1250,1290,40,0.032,30,20,10,n/a,n/a,n/a,n/a, , , 
+4,27-4011,Audio and Video Equipment Technicians,200,210,10,0.05,0,0,0,46610,44110,30820,54500,Postsecondary non-degree award,None,Short-term on-the-job training
+4,27-4012,Broadcast Technicians,210,220,10,0.047619048,10,10,0,34540,32540,18050,42790,Associate's degree,None,Short-term on-the-job training
+4,27-4014,Sound Engineering Technicians,50,50,0,0,0,0,0,46840,44910,24180,58170,Postsecondary non-degree award,None,Short-term on-the-job training
+4,27-4021,Photographers,570,580,10,0.01754386,10,0,10,38050,32810,19660,47250,High school diploma or equivalent,None,Long-term on-the-job training
+4,27-4031,"Camera Operators, Television, Video, and Motion Picture",110,120,10,0.090909091,0,0,0,27310,21600,17110,32410,Bachelor's degree,None,None
+2,29-0000,Healthcare Practitioners and Technical Occupations,34890,35840,950,0.027228432,1130,480,650,69730,56720,36720,86240, , , 
+3,29-1000,Health Diagnosing and Treating Practitioners,22110,22670,560,0.025327906,680,280,400,n/a,n/a,n/a,n/a, , , 
+4,29-1011,Chiropractors,80,80,0,0,0,0,0,80150,73630,68400,86020,Doctoral or professional degree,None,None
+4,29-1021,"Dentists, General",270,280,10,0.037037037,10,0,10,169000,139800,106990,">$187,200",Doctoral or professional degree,None,None
+4,29-1031,Dietitians and Nutritionists,320,330,10,0.03125,0,0,0,60870,58960,43750,69430,Bachelor's degree,None,Internship/residency
+4,29-1041,Optometrists,120,120,0,0,0,0,0,118320,121620,83350,135810,Doctoral or professional degree,None,None
+4,29-1051,Pharmacists,980,1000,20,0.020408163,30,10,20,117890,117310,88830,132420,Doctoral or professional degree,None,None
+4,29-1062,Family and General Practitioners,130,130,0,0,0,0,0,194560,177520,123620,">$187,200",Doctoral or professional degree,None,Internship/residency
+4,29-1063,"Internists, General",280,290,10,0.035714286,10,0,10,147070,149240,72640,184280,Doctoral or professional degree,None,Internship/residency
+4,29-1065,"Pediatricians, General",60,60,0,0,0,0,0,144130,125210,103290,164550,Doctoral or professional degree,None,Internship/residency
+4,29-1066,Psychiatrists,150,150,0,0,0,0,0,203480,">$187,200",136150,">$187,200",Doctoral or professional degree,None,Internship/residency
+4,29-1067,Surgeons,110,110,0,0,0,0,0,245820,">$187,200",">$187,200",n/a,Doctoral or professional degree,None,Internship/residency
+4,29-1069,"Physicians and Surgeons, All Other",2450,2480,30,0.012244898,70,10,60,178640,">$187,200",63770,">$187,200",Doctoral or professional degree,None,Internship/residency
+4,29-1071,Physician Assistants,620,640,20,0.032258065,20,10,10,89230,89160,73670,97010,Master's degree,None,None
+4,29-1081,Podiatrists,60,60,0,0,0,0,0,110580,105160,74400,128670,Doctoral or professional degree,None,Internship/residency
+4,29-1122,Occupational Therapists,550,570,20,0.036363636,10,10,0,67370,66570,47660,77220,Master's degree,None,None
+4,29-1123,Physical Therapists,810,840,30,0.037037037,40,20,20,67740,68450,49480,76870,Doctoral or professional degree,None,None
+4,29-1125,Recreational Therapists,90,90,0,0,0,0,0,51980,50090,37090,59420,Bachelor's degree,None,None
+4,29-1126,Respiratory Therapists,340,350,10,0.029411765,0,0,0,61560,61600,52060,66310,Associate's degree,None,None
+4,29-1127,Speech-Language Pathologists,830,850,20,0.024096386,20,10,10,67050,64590,47490,76830,Master's degree,None,None
+4,29-1129,"Therapists, All Other",50,50,0,0,0,0,0,57570,54400,39810,66450,Bachelor's degree,None,None
+4,29-1131,Veterinarians,340,350,10,0.029411765,20,10,10,101880,84650,55870,124890,Doctoral or professional degree,None,None
+4,29-1141,Registered Nurses,12120,12440,320,0.02640264,370,160,210,58880,58150,45530,65560,Associate's degree,None,None
+4,29-1151,Nurse Anesthetists,160,170,10,0.0625,0,0,0,142300,143200,127510,149690,Master's degree,None,None
+4,29-1171,Nurse Practitioners,670,700,30,0.044776119,20,10,10,91630,91660,77850,98520,Master's degree,None,None
+4,29-1199,"Health Diagnosing and Treating Practitioners, All Other",110,110,0,0,0,0,0,74550,66300,55920,83860,Master's degree,None,None
+3,29-2000,Health Technologists and Technicians,12200,12580,380,0.031147541,420,190,230,n/a,n/a,n/a,n/a, , , 
+4,29-2011,Medical and Clinical Laboratory Technologists,630,630,0,0,20,0,20,58920,57950,48340,64210,Bachelor's degree,None,None
+4,29-2012,Medical and Clinical Laboratory Technicians,740,780,40,0.054054054,40,20,20,42580,41280,30760,48490,Associate's degree,None,None
+4,29-2021,Dental Hygienists,880,910,30,0.034090909,40,20,20,61010,62210,50500,66260,Associate's degree,None,None
+4,29-2031,Cardiovascular Technologists and Technicians,200,210,10,0.05,10,10,0,51510,50200,32250,61140,Associate's degree,None,None
+4,29-2032,Diagnostic Medical Sonographers,250,260,10,0.04,10,10,0,65730,65150,53050,72070,Associate's degree,None,None
+4,29-2033,Nuclear Medicine Technologists,50,50,0,0,0,0,0,77040,77510,63810,83660,Associate's degree,None,None
+4,29-2034,Radiologic Technologists,800,820,20,0.025,20,10,10,58900,58420,46920,64880,Associate's degree,None,None
+4,29-2035,Magnetic Resonance Imaging Technologists,60,70,10,0.166666667,0,0,0,64740,66590,48110,73050,Associate's degree,Less than 5 years,None
+4,29-2041,Emergency Medical Technicians and Paramedics,1440,1510,70,0.048611111,70,30,40,36420,34510,27190,41040,Postsecondary non-degree award,None,None
+4,29-2051,Dietetic Technicians,90,90,0,0,0,0,0,38610,40420,28830,43490,Associate's degree,None,None
+4,29-2052,Pharmacy Technicians,1020,1050,30,0.029411765,20,10,10,30190,29500,22150,34200,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,29-2055,Surgical Technologists,340,360,20,0.058823529,10,10,0,39590,37530,29390,44690,Postsecondary non-degree award,None,None
+4,29-2056,Veterinary Technologists and Technicians,240,250,10,0.041666667,10,10,0,35470,35100,26300,40050,Associate's degree,None,None
+4,29-2061,Licensed Practical and Licensed Vocational Nurses,4010,4090,80,0.019950125,130,40,90,40100,39080,32810,43750,Postsecondary non-degree award,None,None
+4,29-2071,Medical Records and Health Information Technicians,600,620,20,0.033333333,20,10,10,35030,31940,23710,40690,Postsecondary non-degree award,None,None
+4,29-2081,"Opticians, Dispensing",170,180,10,0.058823529,0,0,0,47080,47580,39610,50820,High school diploma or equivalent,None,Long-term on-the-job training
+4,29-2091,Orthotists and Prosthetists,80,80,0,0,0,0,0,71220,73170,51500,81080,Master's degree,None,Internship/residency
+4,29-2099,"Health Technologists and Technicians, All Other",340,350,10,0.029411765,0,0,0,43610,38790,28630,51110,High school diploma or equivalent,None,None
+3,29-9000,Other Healthcare Practitioners and Technical Occupations,580,590,10,0.017241379,10,0,10,n/a,n/a,n/a,n/a, , , 
+4,29-9011,Occupational Health and Safety Specialists,310,310,0,0,10,0,10,67790,67320,52080,75640,Bachelor's degree,None,Short-term on-the-job training
+4,29-9091,Athletic Trainers,120,120,0,0,0,0,0,41570,37810,34140,45290,Bachelor's degree,None,None
+4,29-9099,"Healthcare Practitioners and Technical Workers, All Other",120,120,0,0,0,0,0,73700,74940,51110,84990,Bachelor's degree,None,None
+2,31-0000,Healthcare Support Occupations,16520,17060,540,0.032687651,560,270,290,28450,26560,21430,31960, , , 
+3,31-1000,"Nursing, Psychiatric, and Home Health Aides",11900,12310,410,0.034453782,420,210,210,n/a,n/a,n/a,n/a, , , 
+4,31-1011,Home Health Aides,5150,5450,300,0.058252427,240,150,90,24980,23570,21460,26740,Less than high school,None,Short-term on-the-job training
+4,31-1013,Psychiatric Aides,510,520,10,0.019607843,20,10,10,33160,33400,22980,38250,High school diploma or equivalent,None,Short-term on-the-job training
+4,31-1014,Nursing Assistants,6100,6180,80,0.013114754,150,40,110,27590,26840,21350,30710,Postsecondary non-degree award,None,None
+4,31-1015,Orderlies,150,160,10,0.066666667,10,10,0,23900,22550,19410,26150,High school diploma or equivalent,None,Short-term on-the-job training
+3,31-2000,Occupational Therapy and Physical Therapist Assistants and Aides,580,610,30,0.051724138,20,10,10,n/a,n/a,n/a,n/a, , , 
+4,31-2011,Occupational Therapy Assistants,220,230,10,0.045454545,20,10,10,46220,46000,35020,51820,Associate's degree,None,None
+4,31-2021,Physical Therapist Assistants,240,250,10,0.041666667,10,10,0,43420,43360,37280,46490,Associate's degree,None,None
+4,31-2022,Physical Therapist Aides,100,100,0,0,0,0,0,25130,23880,19220,28080,High school diploma or equivalent,None,Short-term on-the-job training
+3,31-9000,Other Healthcare Support Occupations,4050,4140,90,0.022222222,120,50,70,n/a,n/a,n/a,n/a, , , 
+4,31-9011,Massage Therapists,420,440,20,0.047619048,10,10,0,n/a,n/a,n/a,n/a,Postsecondary non-degree award,None,None
+4,31-9091,Dental Assistants,930,960,30,0.032258065,30,10,20,37010,35920,27790,41630,Postsecondary non-degree award,None,None
+4,31-9092,Medical Assistants,1010,1030,20,0.01980198,30,10,20,32760,31900,26370,35960,Postsecondary non-degree award,None,None
+4,31-9093,Medical Equipment Preparers,150,150,0,0,0,0,0,29070,27900,22300,32450,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,31-9094,Medical Transcriptionists,290,280,-10,-0.034482759,10,0,10,33260,33620,27950,35920,Postsecondary non-degree award,None,None
+4,31-9095,Pharmacy Aides,130,130,0,0,0,0,0,23670,22880,19090,25960,High school diploma or equivalent,None,Short-term on-the-job training
+4,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,320,330,10,0.03125,10,0,10,23260,22740,19890,24950,High school diploma or equivalent,None,Short-term on-the-job training
+4,31-9097,Phlebotomists,220,230,10,0.045454545,0,0,0,29440,28540,24640,31850,Postsecondary non-degree award,None,None
+4,31-9099,"Healthcare Support Workers, All Other",580,590,10,0.017241379,20,10,10,30430,28740,23740,33770,High school diploma or equivalent,None,None
+2,33-0000,Protective Service Occupations,14050,14190,140,0.009964413,540,80,460,51080,49940,25530,63850, , , 
+3,33-1000,Supervisors of Protective Service Workers,1550,1550,0,0,50,0,50,n/a,n/a,n/a,n/a, , , 
+4,33-1012,First-Line Supervisors of Police and Detectives,720,720,0,0,20,0,20,92660,95620,62570,107710,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,33-1099,"First-Line Supervisors of Protective Service Workers, All Other",240,240,0,0,10,0,10,57260,55840,37600,67080,High school diploma or equivalent,Less than 5 years,None
+3,33-2000,Fire Fighting and Prevention Workers,670,670,0,0,20,0,20,n/a,n/a,n/a,n/a, , , 
+4,33-2011,Firefighters,570,560,-10,-0.01754386,10,0,10,57290,57450,45460,63210,Postsecondary non-degree award,None,Long-term on-the-job training
+3,33-3000,Law Enforcement Workers,6510,6530,20,0.003072197,180,10,170,n/a,n/a,n/a,n/a, , , 
+4,33-3011,Bailiffs,190,190,0,0,10,0,10,52580,54910,32980,62380,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,33-3021,Detectives and Criminal Investigators,830,830,0,0,20,0,20,83140,87060,53690,97870,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,33-3051,Police and Sheriff's Patrol Officers,2510,2520,10,0.003984064,90,10,80,62950,62810,42850,73000,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,33-9000,Other Protective Service Workers,5320,5440,120,0.022556391,290,70,220,n/a,n/a,n/a,n/a, , , 
+4,33-9021,Private Detectives and Investigators,280,290,10,0.035714286,10,0,10,54700,63250,34030,65040,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,33-9032,Security Guards,2990,3070,80,0.026755853,80,40,40,30480,29210,22140,34660,High school diploma or equivalent,None,Short-term on-the-job training
+4,33-9091,Crossing Guards,270,260,-10,-0.037037037,0,0,0,23650,24080,19150,25900,High school diploma or equivalent,None,Short-term on-the-job training
+4,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1060,1090,30,0.028301887,130,20,110,19380,18640,16870,20640,High school diploma or equivalent,None,Short-term on-the-job training
+4,33-9093,Transportation Security Screeners,140,140,0,0,0,0,0,34960,34190,29470,37700,High school diploma or equivalent,None,Short-term on-the-job training
+4,33-9099,"Protective Service Workers, All Other",410,420,10,0.024390244,40,0,40,27410,24460,16760,32730,High school diploma or equivalent,None,Short-term on-the-job training
+2,35-0000,Food Preparation and Serving Related Occupations,42270,44320,2050,0.048497753,2920,1020,1900,21440,19200,16940,23680, , , 
+3,35-1000,Supervisors of Food Preparation and Serving Workers,3410,3590,180,0.052785924,190,90,100,n/a,n/a,n/a,n/a, , , 
+4,35-1011,Chefs and Head Cooks,400,410,10,0.025,20,10,10,42440,37280,29560,48880,High school diploma or equivalent,5 years or more,None
+4,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,3010,3180,170,0.056478405,170,80,90,32790,31440,23610,37390,High school diploma or equivalent,Less than 5 years,None
+3,35-2000,Cooks and Food Preparation Workers,9220,9590,370,0.040130152,400,180,220,n/a,n/a,n/a,n/a, , , 
+4,35-2011,"Cooks, Fast Food",980,1010,30,0.030612245,40,20,20,19880,18620,16830,21410,Less than high school,None,Short-term on-the-job training
+4,35-2012,"Cooks, Institution and Cafeteria",1180,1200,20,0.016949153,30,10,20,28450,27660,20720,32310,Less than high school,None,Short-term on-the-job training
+4,35-2014,"Cooks, Restaurant",3480,3710,230,0.066091954,180,110,70,24760,23910,19590,27350,Less than high school,Less than 5 years,Moderate-term on-the-job training
+4,35-2015,"Cooks, Short Order",820,850,30,0.036585366,30,10,20,25430,25410,20520,27890,Less than high school,None,Short-term on-the-job training
+4,35-2021,Food Preparation Workers,2620,2680,60,0.022900763,120,30,90,21640,20820,16920,24000,Less than high school,None,Short-term on-the-job training
+3,35-3000,Food and Beverage Serving Workers,25210,26510,1300,0.051566839,1930,650,1280,n/a,n/a,n/a,n/a, , , 
+4,35-3011,Bartenders,2260,2390,130,0.057522124,140,60,80,21730,19100,16920,24130,Less than high school,None,Short-term on-the-job training
+4,35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food",10980,11630,650,0.059198543,850,320,530,18440,18210,16920,19200,Less than high school,None,Short-term on-the-job training
+4,35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",1780,1840,60,0.033707865,200,30,170,18540,18450,17080,19270,Less than high school,None,Short-term on-the-job training
+4,35-3031,Waiters and Waitresses,8990,9410,420,0.046718576,680,210,470,19920,18590,16960,21410,Less than high school,None,Short-term on-the-job training
+4,35-3041,"Food Servers, Nonrestaurant",1200,1240,40,0.033333333,60,20,40,20010,18570,16940,21550,Less than high school,None,Short-term on-the-job training
+3,35-9000,Other Food Preparation and Serving Related Workers,4430,4630,200,0.045146727,410,100,310,n/a,n/a,n/a,n/a, , , 
+4,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,1370,1430,60,0.04379562,110,30,80,19150,18190,16920,20270,Less than high school,None,Short-term on-the-job training
+4,35-9021,Dishwashers,1900,1980,80,0.042105263,150,40,110,18640,18420,16900,19500,Less than high school,None,Short-term on-the-job training
+4,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1110,1160,50,0.045045045,150,30,120,19310,18490,16940,20490,Less than high school,None,None
+4,35-9099,"Food Preparation and Serving Related Workers, All Other",50,50,0,0,0,0,0,n/a,n/a,n/a,n/a,Less than high school,None,Short-term on-the-job training
+2,37-0000,Building and Grounds Cleaning and Maintenance Occupations,23120,23720,600,0.025951557,740,300,440,26650,23760,18380,30780, , , 
+3,37-1000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,1410,1440,30,0.021276596,30,10,20,n/a,n/a,n/a,n/a, , , 
+4,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,1010,1030,20,0.01980198,30,10,20,41960,41090,29720,48080,High school diploma or equivalent,Less than 5 years,None
+4,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",400,410,10,0.025,0,0,0,45620,43200,32450,52200,High school diploma or equivalent,Less than 5 years,None
+3,37-2000,Building Cleaning and Pest Control Workers,17310,17760,450,0.025996534,530,230,300,n/a,n/a,n/a,n/a, , , 
+4,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",11610,11900,290,0.024978467,340,140,200,26090,23780,18760,29760,Less than high school,None,Short-term on-the-job training
+4,37-2012,Maids and Housekeeping Cleaners,5270,5420,150,0.028462998,170,70,100,21180,20030,16980,23270,Less than high school,None,Short-term on-the-job training
+3,37-3000,Grounds Maintenance Workers,4400,4520,120,0.027272727,170,60,110,n/a,n/a,n/a,n/a, , , 
+4,37-3011,Landscaping and Groundskeeping Workers,3760,3860,100,0.026595745,150,50,100,26860,24750,18880,30850,Less than high school,None,Short-term on-the-job training
+2,39-0000,Personal Care and Service Occupations,22970,23640,670,0.029168481,840,340,500,26440,23140,17480,30920, , , 
+3,39-1000,Supervisors of Personal Care and Service Workers,1070,1090,20,0.018691589,30,10,20,n/a,n/a,n/a,n/a, , , 
+4,39-1011,Gaming Supervisors,70,80,10,0.142857143,0,0,0,44950,43330,33330,50760,High school diploma or equivalent,Less than 5 years,None
+4,39-1021,First-Line Supervisors of Personal Service Workers,990,1000,10,0.01010101,30,10,20,40740,37840,29340,46440,High school diploma or equivalent,Less than 5 years,None
+3,39-2000,Animal Care and Service Workers,920,940,20,0.02173913,20,10,10,n/a,n/a,n/a,n/a, , , 
+4,39-2011,Animal Trainers,90,90,0,0,0,0,0,23430,19380,16920,26680,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,39-2021,Nonfarm Animal Caretakers,830,850,20,0.024096386,20,10,10,23050,20890,17010,26080,Less than high school,None,Short-term on-the-job training
+3,39-3000,Entertainment Attendants and Related Workers,1630,1680,50,0.030674847,130,30,100,n/a,n/a,n/a,n/a, , , 
+4,39-3012,Gaming and Sports Book Writers and Runners,140,140,0,0,0,0,0,27920,26480,21660,31050,High school diploma or equivalent,None,Short-term on-the-job training
+4,39-3021,Motion Picture Projectionists,70,70,0,0,0,0,0,22170,18980,16850,24830,Less than high school,None,Short-term on-the-job training
+4,39-3031,"Ushers, Lobby Attendants, and Ticket Takers",200,200,0,0,20,0,20,23600,18610,16850,26980,Less than high school,None,Short-term on-the-job training
+4,39-3091,Amusement and Recreation Attendants,1040,1090,50,0.048076923,100,30,70,19750,18530,16790,21230,Less than high school,None,Short-term on-the-job training
+4,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",90,90,0,0,10,0,10,21440,20880,16940,23680,High school diploma or equivalent,None,Short-term on-the-job training
+4,39-3099,"Entertainment Attendants and Related Workers, All Other",60,60,0,0,0,0,0,33730,26960,20540,40320,High school diploma or equivalent,None,Short-term on-the-job training
+3,39-4000,Funeral Service Workers,330,330,0,0,10,0,10,n/a,n/a,n/a,n/a, , , 
+4,39-4031,"Morticians, Undertakers, and Funeral Directors",240,240,0,0,10,0,10,61060,67500,36870,73150,Associate's degree,None,Long-term on-the-job training
+3,39-5000,Personal Appearance Workers,2800,2850,50,0.017857143,90,30,60,n/a,n/a,n/a,n/a, , , 
+4,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",1970,2000,30,0.015228426,60,10,50,26840,22700,16960,31790,Postsecondary non-degree award,None,None
+4,39-5092,Manicurists and Pedicurists,170,170,0,0,0,0,0,22650,21290,16960,25490,Postsecondary non-degree award,None,None
+4,39-5094,Skincare Specialists,190,200,10,0.052631579,10,10,0,24960,24010,19120,27870,Postsecondary non-degree award,None,None
+3,39-6000,"Baggage Porters, Bellhops, and Concierges",80,90,10,0.125,0,0,0,n/a,n/a,n/a,n/a, , , 
+4,39-6011,Baggage Porters and Bellhops,60,60,0,0,0,0,0,27970,27150,20050,31940,High school diploma or equivalent,None,Short-term on-the-job training
+3,39-7000,Tour and Travel Guides,150,150,0,0,10,0,10,n/a,n/a,n/a,n/a, , , 
+3,39-9000,Other Personal Care and Service Workers,15990,16500,510,0.031894934,560,260,300,n/a,n/a,n/a,n/a, , , 
+4,39-9011,Childcare Workers,6750,6880,130,0.019259259,260,60,200,22790,20350,16970,25710,High school diploma or equivalent,None,Short-term on-the-job training
+4,39-9021,Personal Care Aides,5520,5820,300,0.054347826,180,150,30,26160,23590,20400,29050,Less than high school,None,Short-term on-the-job training
+4,39-9031,Fitness Trainers and Aerobics Instructors,1300,1340,40,0.030769231,30,20,10,36420,31590,19630,44820,High school diploma or equivalent,None,Short-term on-the-job training
+4,39-9032,Recreation Workers,1480,1510,30,0.02027027,40,20,20,23110,20760,16970,26170,Bachelor's degree,None,None
+4,39-9041,Residential Advisors,690,700,10,0.014492754,40,10,30,28370,26070,21010,32050,High school diploma or equivalent,None,Short-term on-the-job training
+4,39-9099,"Personal Care and Service Workers, All Other",260,260,0,0,10,0,10,31710,32690,24290,35420,High school diploma or equivalent,None,Short-term on-the-job training
+2,41-0000,Sales and Related Occupations,51680,52000,320,0.00619195,1970,170,1800,35980,24590,17260,45340, , , 
+3,41-1000,Supervisors of Sales Workers,5440,5450,10,0.001838235,120,10,110,n/a,n/a,n/a,n/a, , , 
+4,41-1011,First-Line Supervisors of Retail Sales Workers,4380,4380,0,0,90,0,90,45880,40660,29200,54220,High school diploma or equivalent,Less than 5 years,None
+4,41-1012,First-Line Supervisors of Non-Retail Sales Workers,1060,1070,10,0.009433962,20,10,10,97670,84460,49610,121710,High school diploma or equivalent,Less than 5 years,None
+3,41-2000,Retail Sales Workers,32900,33000,100,0.003039514,1470,50,1420,n/a,n/a,n/a,n/a, , , 
+4,41-2011,Cashiers,13250,13260,10,0.000754717,720,10,710,20230,19100,17030,21830,Less than high school,None,Short-term on-the-job training
+4,41-2021,Counter and Rental Clerks,1460,1500,40,0.02739726,60,20,40,26920,24390,18470,31140,Less than high school,None,Short-term on-the-job training
+4,41-2031,Retail Salespersons,17460,17490,30,0.001718213,660,20,640,26350,22220,17090,30980,Less than high school,None,Short-term on-the-job training
+3,41-3000,"Sales Representatives, Services",4600,4670,70,0.015217391,150,40,110,n/a,n/a,n/a,n/a, , , 
+4,41-3011,Advertising Sales Agents,580,580,0,0,20,0,20,53410,46730,29990,65130,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,41-3021,Insurance Sales Agents,1380,1400,20,0.014492754,40,10,30,87640,61220,38870,112020,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,41-3031,"Securities, Commodities, and Financial Services Sales Agents",650,650,0,0,20,0,20,96260,66530,41170,123800,Bachelor's degree,None,Moderate-term on-the-job training
+4,41-3041,Travel Agents,160,160,0,0,0,0,0,30150,29630,25020,32710,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,41-3099,"Sales Representatives, Services, All Other",1830,1880,50,0.027322404,80,30,50,58250,48150,27960,73400,High school diploma or equivalent,None,Short-term on-the-job training
+3,41-4000,"Sales Representatives, Wholesale and Manufacturing",5650,5750,100,0.017699115,160,50,110,n/a,n/a,n/a,n/a, , , 
+4,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",650,670,20,0.030769231,20,10,10,89880,77100,46110,111760,Bachelor's degree,None,Moderate-term on-the-job training
+4,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",5000,5080,80,0.016,140,40,100,62500,55170,36050,75720,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,41-9000,Other Sales and Related Workers,3090,3130,40,0.012944984,80,30,50,n/a,n/a,n/a,n/a, , , 
+4,41-9011,Demonstrators and Product Promoters,210,210,0,0,10,0,10,26890,22830,19780,30450,High school diploma or equivalent,None,Short-term on-the-job training
+4,41-9012,Models,110,110,0,0,0,0,0,46740,45550,42870,48670,Less than high school,None,None
+4,41-9022,Real Estate Sales Agents,950,970,20,0.021052632,20,10,10,53400,43960,32000,64100,High school diploma or equivalent,None,Long-term on-the-job training
+4,41-9031,Sales Engineers,200,210,10,0.05,10,10,0,96950,90030,62940,113950,Bachelor's degree,None,Moderate-term on-the-job training
+4,41-9041,Telemarketers,510,510,0,0,10,0,10,22320,20160,17290,24830,Less than high school,None,Short-term on-the-job training
+4,41-9099,"Sales and Related Workers, All Other",280,290,10,0.035714286,10,0,10,29950,23310,17360,36250,High school diploma or equivalent,None,None
+2,43-0000,Office and Administrative Support Occupations,95300,95930,630,0.006610703,2540,590,1950,36570,34260,23250,43230, , , 
+3,43-1000,Supervisors of Office and Administrative Support Workers,6900,7040,140,0.020289855,230,70,160,n/a,n/a,n/a,n/a, , , 
+4,43-1011,First-Line Supervisors of Office and Administrative Support Workers,6900,7040,140,0.020289855,230,70,160,56600,53460,38640,65570,High school diploma or equivalent,Less than 5 years,None
+3,43-2000,Communications Equipment Operators,730,710,-20,-0.02739726,10,0,10,n/a,n/a,n/a,n/a, , , 
+4,43-2011,"Switchboard Operators, Including Answering Service",670,650,-20,-0.029850746,10,0,10,28780,28210,22190,32070,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-2021,Telephone Operators,60,60,0,0,0,0,0,50250,54150,39960,55400,High school diploma or equivalent,None,Short-term on-the-job training
+3,43-3000,Financial Clerks,13610,13840,230,0.016899339,360,120,240,n/a,n/a,n/a,n/a, , , 
+4,43-3011,Bill and Account Collectors,850,860,10,0.011764706,20,0,20,39820,36450,26190,46630,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-3021,Billing and Posting Clerks,1490,1520,30,0.020134228,40,20,20,36490,35560,26860,41310,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",8200,8360,160,0.019512195,160,80,80,37760,37080,26420,43440,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-3051,Payroll and Timekeeping Clerks,780,800,20,0.025641026,30,10,20,39500,38290,28290,45110,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-3061,Procurement Clerks,260,270,10,0.038461538,20,10,10,37200,36160,27160,42220,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-3071,Tellers,1810,1800,-10,-0.005524862,90,0,90,25640,24920,21510,27700,High school diploma or equivalent,None,Short-term on-the-job training
+3,43-4000,Information and Record Clerks,20780,21060,280,0.013474495,700,160,540,n/a,n/a,n/a,n/a, , , 
+4,43-4011,Brokerage Clerks,60,60,0,0,0,0,0,40580,41900,28820,46460,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-4031,"Court, Municipal, and License Clerks",860,870,10,0.011627907,10,0,10,42540,39910,31980,47820,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-4041,"Credit Authorizers, Checkers, and Clerks",90,90,0,0,0,0,0,40690,38570,31340,45370,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4051,Customer Service Representatives,9480,9640,160,0.016877637,330,80,250,34230,32570,23050,39810,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4071,File Clerks,630,620,-10,-0.015873016,10,0,10,30390,29640,21240,34970,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4081,"Hotel, Motel, and Resort Desk Clerks",890,940,50,0.056179775,60,20,40,24700,22790,20110,27000,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4111,"Interviewers, Except Eligibility and Loan",990,1010,20,0.02020202,30,10,20,32990,31230,22970,38000,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4121,"Library Assistants, Clerical",680,660,-20,-0.029411765,30,0,30,28180,27200,19780,32380,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4131,Loan Interviewers and Clerks,470,480,10,0.021276596,0,0,0,37980,36870,26580,43680,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4141,New Accounts Clerks,130,130,0,0,0,0,0,37050,35620,28250,41450,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-4151,Order Clerks,340,340,0,0,10,0,10,29460,28280,19340,34530,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",590,590,0,0,10,0,10,39300,38500,29390,44250,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4171,Receptionists and Information Clerks,4170,4240,70,0.016786571,160,40,120,28570,27910,20970,32360,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,270,260,-10,-0.037037037,0,0,0,30700,25870,21090,35500,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-4199,"Information and Record Clerks, All Other",620,610,-10,-0.016129032,10,0,10,39410,37750,31900,43160,High school diploma or equivalent,None,Short-term on-the-job training
+3,43-5000,"Material Recording, Scheduling, Dispatching, and Distributing Workers",13070,12990,-80,-0.006120888,410,40,370,n/a,n/a,n/a,n/a, , , 
+4,43-5011,Cargo and Freight Agents,150,150,0,0,0,0,0,41890,40370,32590,46540,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5021,Couriers and Messengers,460,450,-10,-0.02173913,10,0,10,28200,27450,19280,32670,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5031,"Police, Fire, and Ambulance Dispatchers",480,480,0,0,10,0,10,43470,43120,32970,48730,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-5032,"Dispatchers, Except Police, Fire, and Ambulance",540,550,10,0.018518519,20,0,20,37610,35700,24790,44020,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-5041,"Meter Readers, Utilities",60,60,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5051,Postal Service Clerks,290,270,-20,-0.068965517,0,0,0,52040,53830,46200,54960,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5052,Postal Service Mail Carriers,1110,1040,-70,-0.063063063,40,0,40,52150,55940,42790,56830,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",470,440,-30,-0.063829787,0,0,0,49260,53810,39640,54060,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5061,"Production, Planning, and Expediting Clerks",960,990,30,0.03125,30,10,20,48010,45990,34530,54750,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-5071,"Shipping, Receiving, and Traffic Clerks",2010,2040,30,0.014925373,70,20,50,32090,30250,20670,37810,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-5081,Stock Clerks and Order Fillers,6350,6330,-20,-0.003149606,200,0,200,24160,22540,17050,27720,Less than high school,None,Short-term on-the-job training
+4,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",180,190,10,0.055555556,10,10,0,35000,38780,20400,42300,High school diploma or equivalent,None,Short-term on-the-job training
+3,43-6000,Secretaries and Administrative Assistants,19250,19500,250,0.012987013,390,160,230,n/a,n/a,n/a,n/a, , , 
+4,43-6011,Executive Secretaries and Executive Administrative Assistants,4080,4040,-40,-0.009803922,50,0,50,57940,56980,40780,66520,High school diploma or equivalent,Less than 5 years,None
+4,43-6012,Legal Secretaries,670,650,-20,-0.029850746,10,0,10,48150,45810,35580,54430,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-6013,Medical Secretaries,1120,1170,50,0.044642857,30,20,10,32590,31330,26490,35650,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",13380,13640,260,0.019431988,290,130,160,36920,36370,26010,42380,High school diploma or equivalent,None,Short-term on-the-job training
+3,43-9000,Other Office and Administrative Support Workers,20970,20790,-180,-0.008583691,430,40,390,n/a,n/a,n/a,n/a, , , 
+4,43-9011,Computer Operators,630,600,-30,-0.047619048,10,0,10,43730,42260,30820,50190,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-9021,Data Entry Keyers,1240,1160,-80,-0.064516129,20,0,20,31910,31760,24010,35860,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-9022,Word Processors and Typists,2270,2140,-130,-0.057268722,10,0,10,35220,35180,28170,38740,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-9031,Desktop Publishers,100,100,0,0,0,0,0,39610,35950,28000,45420,Associate's degree,None,Short-term on-the-job training
+4,43-9041,Insurance Claims and Policy Processing Clerks,900,910,10,0.011111111,20,0,20,37400,36720,30960,40630,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",430,420,-10,-0.023255814,10,0,10,33270,33120,26060,36880,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-9061,"Office Clerks, General",14250,14320,70,0.004912281,320,30,290,30030,29250,20480,34810,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-9071,"Office Machine Operators, Except Computer",260,250,-10,-0.038461538,10,0,10,30660,30060,18540,36720,High school diploma or equivalent,None,Short-term on-the-job training
+4,43-9081,Proofreaders and Copy Markers,50,50,0,0,0,0,0,32800,29940,23950,37220,Bachelor's degree,None,None
+4,43-9111,Statistical Assistants,150,150,0,0,0,0,0,41300,42120,31550,46180,Bachelor's degree,None,None
+4,43-9199,"Office and Administrative Support Workers, All Other",700,700,0,0,20,0,20,38030,38090,26340,43880,High school diploma or equivalent,None,Short-term on-the-job training
+2,45-0000,"Farming, Fishing, and Forestry Occupations",2140,2180,40,0.018691589,90,30,60,34060,30180,20780,40700, , , 
+3,45-1000,"Supervisors of Farming, Fishing, and Forestry Workers",70,70,0,0,0,0,0,n/a,n/a,n/a,n/a, , , 
+4,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",70,70,0,0,0,0,0,51730,53330,30780,62200,High school diploma or equivalent,Less than 5 years,None
+3,45-2000,Agricultural Workers,1860,1920,60,0.032258065,90,30,60,n/a,n/a,n/a,n/a, , , 
+4,45-2041,"Graders and Sorters, Agricultural Products",50,50,0,0,0,0,0,n/a,n/a,n/a,n/a,Less than high school,None,Short-term on-the-job training
+4,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",130,130,0,0,0,0,0,28650,27860,21050,32450,Less than high school,None,Short-term on-the-job training
+3,45-4000,"Forest, Conservation, and Logging Workers",170,160,-10,-0.058823529,0,0,0,n/a,n/a,n/a,n/a, , , 
+4,45-4022,Logging Equipment Operators,70,70,0,0,0,0,0,33260,34130,27810,35980,High school diploma or equivalent,None,Moderate-term on-the-job training
+2,47-0000,Construction and Extraction Occupations,25000,25550,550,0.022,710,290,420,47830,44450,30180,56660, , , 
+3,47-1000,Supervisors of Construction and Extraction Workers,2100,2140,40,0.019047619,40,20,20,n/a,n/a,n/a,n/a, , , 
+4,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,2100,2140,40,0.019047619,40,20,20,65500,63000,46280,75110,High school diploma or equivalent,5 years or more,None
+3,47-2000,Construction Trades Workers,18230,18690,460,0.025233132,560,240,320,n/a,n/a,n/a,n/a, , , 
+4,47-2011,Boilermakers,370,370,0,0,10,0,10,61060,66480,43060,70060,High school diploma or equivalent,None,Apprenticeship
+4,47-2021,Brickmasons and Blockmasons,240,240,0,0,0,0,0,55620,58140,40500,63180,High school diploma or equivalent,None,Apprenticeship
+4,47-2031,Carpenters,3770,3860,90,0.023872679,100,50,50,43970,42770,31060,50430,High school diploma or equivalent,None,Apprenticeship
+4,47-2044,Tile and Marble Setters,110,100,-10,-0.090909091,0,0,0,59170,65750,35370,71060,Less than high school,None,Long-term on-the-job training
+4,47-2051,Cement Masons and Concrete Finishers,200,200,0,0,0,0,0,43370,36710,25070,52520,Less than high school,None,Moderate-term on-the-job training
+4,47-2061,Construction Laborers,4470,4600,130,0.029082774,150,60,90,36960,34970,25040,42920,Less than high school,None,Short-term on-the-job training
+4,47-2071,"Paving, Surfacing, and Tamping Equipment Operators",140,130,-10,-0.071428571,0,0,0,39290,33640,25860,46000,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,47-2073,Operating Engineers and Other Construction Equipment Operators,1670,1700,30,0.017964072,60,20,40,51170,46640,32380,60560,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,47-2081,Drywall and Ceiling Tile Installers,130,130,0,0,0,0,0,50560,41170,30880,60400,Less than high school,None,Moderate-term on-the-job training
+4,47-2111,Electricians,2260,2320,60,0.026548673,70,30,40,55450,57620,38220,64060,High school diploma or equivalent,None,Apprenticeship
+4,47-2131,"Insulation Workers, Floor, Ceiling, and Wall",150,150,0,0,0,0,0,29300,29310,26060,30920,Less than high school,None,Short-term on-the-job training
+4,47-2141,"Painters, Construction and Maintenance",1200,1240,40,0.033333333,40,20,20,41230,38380,32080,45810,Less than high school,None,Moderate-term on-the-job training
+4,47-2152,"Plumbers, Pipefitters, and Steamfitters",1560,1620,60,0.038461538,50,30,20,62260,64410,45220,70780,High school diploma or equivalent,None,Apprenticeship
+4,47-2181,Roofers,490,490,0,0,10,0,10,48640,48310,41680,52110,Less than high school,None,Moderate-term on-the-job training
+4,47-2211,Sheet Metal Workers,310,320,10,0.032258065,20,10,10,60870,56290,31630,75490,High school diploma or equivalent,None,Apprenticeship
+4,47-2221,Structural Iron and Steel Workers,390,400,10,0.025641026,10,0,10,60800,63000,45340,68520,High school diploma or equivalent,None,Apprenticeship
+3,47-3000,"Helpers, Construction Trades",920,950,30,0.032608696,40,20,20,n/a,n/a,n/a,n/a, , , 
+4,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",50,50,0,0,0,0,0,46550,39180,33230,53200,Less than high school,None,Short-term on-the-job training
+4,47-3012,Helpers--Carpenters,270,280,10,0.037037037,10,0,10,24930,23930,20760,27020,Less than high school,None,Short-term on-the-job training
+4,47-3013,Helpers--Electricians,240,250,10,0.041666667,10,10,0,30920,29920,25050,33860,High school diploma or equivalent,None,Short-term on-the-job training
+4,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",120,120,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Short-term on-the-job training
+4,47-3019,"Helpers, Construction Trades, All Other",170,180,10,0.058823529,10,10,0,20810,18440,17050,22690,Less than high school,None,Short-term on-the-job training
+3,47-4000,Other Construction and Related Workers,3520,3560,40,0.011363636,70,20,50,n/a,n/a,n/a,n/a, , , 
+4,47-4011,Construction and Building Inspectors,780,800,20,0.025641026,30,10,20,55640,53890,38440,64240,High school diploma or equivalent,5 years or more,Moderate-term on-the-job training
+4,47-4021,Elevator Installers and Repairers,70,70,0,0,0,0,0,81550,85090,63460,90600,High school diploma or equivalent,None,Apprenticeship
+4,47-4041,Hazardous Materials Removal Workers,200,210,10,0.05,0,0,0,44110,42360,32760,49790,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,47-4051,Highway Maintenance Workers,2280,2290,10,0.004385965,40,10,30,38220,37680,31750,41450,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,80,80,0,0,0,0,0,45670,41650,28550,54230,Less than high school,None,Moderate-term on-the-job training
+3,47-5000,Extraction Workers,220,210,-10,-0.045454545,0,0,0,n/a,n/a,n/a,n/a, , , 
+4,47-5021,"Earth Drillers, Except Oil and Gas",80,70,-10,-0.125,0,0,0,39510,39980,30800,43870,High school diploma or equivalent,None,Moderate-term on-the-job training
+2,49-0000,"Installation, Maintenance, and Repair Occupations",19260,19680,420,0.021806854,640,220,420,46060,43040,28820,54680, , , 
+3,49-1000,"Supervisors of Installation, Maintenance, and Repair Workers",1660,1680,20,0.012048193,50,10,40,n/a,n/a,n/a,n/a, , , 
+4,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",1660,1680,20,0.012048193,50,10,40,63660,60860,43470,73760,High school diploma or equivalent,Less than 5 years,None
+3,49-2000,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",2050,2070,20,0.009756098,50,10,40,n/a,n/a,n/a,n/a, , , 
+4,49-2011,"Computer, Automated Teller, and Office Machine Repairers",500,500,0,0,10,0,10,39000,36900,27530,44730,"Some college, no degree",None,None
+4,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",800,800,0,0,10,0,10,59310,64560,32420,72750,Postsecondary non-degree award,None,Moderate-term on-the-job training
+4,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",130,130,0,0,0,0,0,54850,55240,42910,60820,Postsecondary non-degree award,None,Long-term on-the-job training
+4,49-2097,Electronic Home Entertainment Equipment Installers and Repairers,140,140,0,0,10,0,10,41200,39920,30570,46520,Postsecondary non-degree award,None,None
+4,49-2098,Security and Fire Alarm Systems Installers,180,190,10,0.055555556,0,0,0,46160,44680,35810,51340,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,49-3000,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",5830,5910,80,0.013722127,180,40,140,n/a,n/a,n/a,n/a, , , 
+4,49-3011,Aircraft Mechanics and Service Technicians,100,100,0,0,0,0,0,60680,60640,45990,68020,Postsecondary non-degree award,None,None
+4,49-3021,Automotive Body and Related Repairers,700,710,10,0.014285714,10,0,10,38460,36920,28090,43650,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-3023,Automotive Service Technicians and Mechanics,2840,2860,20,0.007042254,80,10,70,40260,38570,25910,47430,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,1070,1090,20,0.018691589,30,10,20,45330,44270,32640,51670,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3041,Farm Equipment Mechanics and Service Technicians,70,70,0,0,0,0,0,36320,33020,28060,40450,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",260,270,10,0.038461538,10,0,10,56310,54320,41020,63960,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3043,Rail Car Repairers,50,50,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3051,Motorboat Mechanics and Service Technicians,90,90,0,0,0,0,0,37540,35610,24110,44250,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3052,Motorcycle Mechanics,100,100,0,0,0,0,0,34970,32520,27240,38840,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,160,160,0,0,0,0,0,32580,30350,23680,37030,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-3092,Recreational Vehicle Service Technicians,120,130,10,0.083333333,10,10,0,33990,33980,19240,41360,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-3093,Tire Repairers and Changers,210,220,10,0.047619048,10,0,10,34230,34530,22350,40170,High school diploma or equivalent,None,Short-term on-the-job training
+3,49-9000,"Other Installation, Maintenance, and Repair Occupations",9730,10020,290,0.029804728,350,150,200,n/a,n/a,n/a,n/a, , , 
+4,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",130,130,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1090,1120,30,0.027522936,40,10,30,47050,45560,32810,54160,Postsecondary non-degree award,None,Long-term on-the-job training
+4,49-9031,Home Appliance Repairers,70,70,0,0,0,0,0,39640,36680,26820,46050,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-9041,Industrial Machinery Mechanics,870,960,90,0.103448276,60,40,20,53980,51900,38220,61860,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-9043,"Maintenance Workers, Machinery",240,250,10,0.041666667,10,10,0,47470,46030,38100,52160,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-9044,Millwrights,190,190,0,0,0,0,0,53530,53180,44680,57950,High school diploma or equivalent,None,Apprenticeship
+4,49-9051,Electrical Power-Line Installers and Repairers,190,190,0,0,10,0,10,71130,78940,45210,84080,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-9052,Telecommunications Line Installers and Repairers,640,640,0,0,20,0,20,61880,65460,38620,73510,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-9062,Medical Equipment Repairers,130,130,0,0,0,0,0,47490,43980,32470,54990,Associate's degree,None,Moderate-term on-the-job training
+4,49-9071,"Maintenance and Repair Workers, General",4960,5080,120,0.024193548,140,60,80,39420,38590,26590,45830,High school diploma or equivalent,None,Long-term on-the-job training
+4,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",200,200,0,0,0,0,0,48190,44170,29740,57410,High school diploma or equivalent,None,Short-term on-the-job training
+4,49-9098,"Helpers--Installation, Maintenance, and Repair Workers",430,440,10,0.023255814,30,10,20,30520,28650,19750,35900,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,49-9099,"Installation, Maintenance, and Repair Workers, All Other",230,240,10,0.043478261,0,0,0,42390,40600,21540,52810,High school diploma or equivalent,None,Moderate-term on-the-job training
+2,51-0000,Production Occupations,23070,23510,440,0.019072388,740,280,460,39330,36860,23490,47260, , , 
+3,51-1000,Supervisors of Production Workers,1620,1660,40,0.024691358,40,20,20,n/a,n/a,n/a,n/a, , , 
+4,51-1011,First-Line Supervisors of Production and Operating Workers,1620,1660,40,0.024691358,40,20,20,65930,63060,42370,77710,Postsecondary non-degree award,Less than 5 years,None
+3,51-2000,Assemblers and Fabricators,5260,5380,120,0.022813688,160,70,90,n/a,n/a,n/a,n/a, , , 
+4,51-2022,Electrical and Electronic Equipment Assemblers,330,380,50,0.151515152,20,20,0,37980,36580,29050,42450,High school diploma or equivalent,None,Short-term on-the-job training
+4,51-2041,Structural Metal Fabricators and Fitters,60,50,-10,-0.166666667,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-2092,Team Assemblers,2640,2690,50,0.018939394,70,30,40,27400,25960,19620,31280,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-2099,"Assemblers and Fabricators, All Other",430,440,10,0.023255814,20,10,10,28910,26310,19030,33860,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,51-3000,Food Processing Workers,1440,1480,40,0.027777778,60,20,40,n/a,n/a,n/a,n/a, , , 
+4,51-3011,Bakers,690,710,20,0.028985507,30,10,20,27020,25260,18440,31320,Less than high school,None,Long-term on-the-job training
+4,51-3021,Butchers and Meat Cutters,270,270,0,0,10,0,10,38780,37440,29570,43380,Less than high school,None,Long-term on-the-job training
+4,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",70,70,0,0,0,0,0,n/a,n/a,n/a,n/a,Less than high school,None,Short-term on-the-job training
+4,51-3023,Slaughterers and Meat Packers,80,80,0,0,0,0,0,23970,23020,21720,25090,Less than high school,None,Short-term on-the-job training
+3,51-4000,Metal Workers and Plastic Workers,3510,3610,100,0.028490028,130,60,70,n/a,n/a,n/a,n/a, , , 
+4,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic",210,220,10,0.047619048,10,10,0,38230,37290,29750,42470,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",60,60,0,0,0,0,0,50290,51080,39980,55450,High school diploma or equivalent,None,Long-term on-the-job training
+4,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",330,340,10,0.03030303,0,0,0,31210,31270,23190,35210,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-4041,Machinists,990,1040,50,0.050505051,50,30,20,44820,45120,32400,51040,High school diploma or equivalent,None,Long-term on-the-job training
+4,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",170,170,0,0,0,0,0,34690,34500,22410,40840,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-4111,Tool and Die Makers,140,140,0,0,0,0,0,48250,46520,34630,55070,High school diploma or equivalent,None,Long-term on-the-job training
+4,51-4121,"Welders, Cutters, Solderers, and Brazers",580,610,30,0.051724138,30,20,10,45620,44940,31990,52430,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-4199,"Metal Workers and Plastic Workers, All Other",60,60,0,0,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,51-5100,Printing Workers,950,940,-10,-0.010526316,20,0,20,n/a,n/a,n/a,n/a, , , 
+4,51-5111,Prepress Technicians and Workers,140,130,-10,-0.071428571,0,0,0,33590,32450,21890,39430,Postsecondary non-degree award,None,None
+4,51-5112,Printing Press Operators,680,680,0,0,10,0,10,40830,41060,29980,46260,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-5113,Print Binding and Finishing Workers,130,130,0,0,0,0,0,34390,34280,25600,38790,High school diploma or equivalent,None,Short-term on-the-job training
+3,51-6000,"Textile, Apparel, and Furnishings Workers",1710,1700,-10,-0.005847953,30,0,30,n/a,n/a,n/a,n/a, , , 
+4,51-6011,Laundry and Dry-Cleaning Workers,540,540,0,0,20,0,20,21980,20870,16980,24480,Less than high school,None,Short-term on-the-job training
+4,51-6021,"Pressers, Textile, Garment, and Related Materials",120,110,-10,-0.083333333,0,0,0,25390,25840,20660,27760,Less than high school,None,Short-term on-the-job training
+4,51-6031,Sewing Machine Operators,490,490,0,0,0,0,0,28360,28360,18400,33350,Less than high school,None,Short-term on-the-job training
+4,51-6093,Upholsterers,180,180,0,0,0,0,0,36630,35850,25350,42270,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,51-7000,Woodworkers,470,490,20,0.042553191,20,10,10,n/a,n/a,n/a,n/a, , , 
+4,51-7011,Cabinetmakers and Bench Carpenters,180,180,0,0,0,0,0,37080,35920,30960,40140,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",100,110,10,0.1,10,10,0,31980,32630,23720,36110,High school diploma or equivalent,None,Short-term on-the-job training
+4,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",100,100,0,0,0,0,0,28120,27870,22170,31100,High school diploma or equivalent,None,Short-term on-the-job training
+3,51-8000,Plant and System Operators,1350,1340,-10,-0.007407407,40,0,40,n/a,n/a,n/a,n/a, , , 
+4,51-8021,Stationary Engineers and Boiler Operators,390,390,0,0,10,0,10,53730,53380,45550,57820,High school diploma or equivalent,None,Long-term on-the-job training
+4,51-8031,Water and Wastewater Treatment Plant and System Operators,410,410,0,0,10,0,10,45550,45150,35410,50620,High school diploma or equivalent,None,Long-term on-the-job training
+3,51-9000,Other Production Occupations,6760,6920,160,0.023668639,240,90,150,n/a,n/a,n/a,n/a, , , 
+4,51-9011,Chemical Equipment Operators and Tenders,190,190,0,0,10,0,10,53990,53000,42870,59540,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",50,50,0,0,0,0,0,38740,40190,31110,42550,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",110,110,0,0,0,0,0,38350,39700,26930,44060,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",1060,1080,20,0.018867925,40,10,30,47480,47410,33440,54500,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",320,320,0,0,10,0,10,38530,41780,23200,46190,High school diploma or equivalent,None,Short-term on-the-job training
+4,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",90,90,0,0,0,0,0,33710,35310,22190,39470,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",90,90,0,0,0,0,0,36030,40820,21180,43460,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",1210,1260,50,0.041322314,50,20,30,41790,38850,26140,49610,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9081,Dental Laboratory Technicians,110,110,0,0,0,0,0,37380,37540,29720,41210,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9111,Packaging and Filling Machine Operators and Tenders,640,660,20,0.03125,30,10,20,31070,30090,22990,35110,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",290,290,0,0,10,0,10,39640,40920,27820,45540,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9123,"Painting, Coating, and Decorating Workers",60,60,0,0,0,0,0,29030,27600,21850,32620,Less than high school,None,Moderate-term on-the-job training
+4,51-9191,Adhesive Bonding Machine Operators and Tenders,70,70,0,0,0,0,0,35180,35430,26950,39300,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",170,170,0,0,10,0,10,35020,33200,27360,38850,High school diploma or equivalent,None,Long-term on-the-job training
+4,51-9196,"Paper Goods Machine Setters, Operators, and Tenders",660,670,10,0.015151515,20,10,10,41000,41950,31320,45830,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,51-9198,Helpers--Production Workers,670,690,20,0.029850746,20,10,10,29980,27900,20740,34600,Less than high school,None,Short-term on-the-job training
+4,51-9199,"Production Workers, All Other",190,210,20,0.105263158,10,10,0,37370,37850,24680,43720,High school diploma or equivalent,None,Moderate-term on-the-job training
+2,53-0000,Transportation and Material Moving Occupations,29400,30070,670,0.022789116,990,340,650,34200,32460,20540,41030, , , 
+3,53-1000,Supervisors of Transportation and Material Moving Workers,1130,1150,20,0.017699115,40,10,30,n/a,n/a,n/a,n/a, , , 
+4,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,630,650,20,0.031746032,30,10,20,57980,58420,37560,68200,High school diploma or equivalent,Less than 5 years,None
+3,53-2000,Air Transportation Workers,100,100,0,0,0,0,0,n/a,n/a,n/a,n/a, , , 
+3,53-3000,Motor Vehicle Operators,14850,15090,240,0.016161616,340,120,220,n/a,n/a,n/a,n/a, , , 
+4,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",60,60,0,0,0,0,0,22720,19120,17020,25570,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,53-3021,"Bus Drivers, Transit and Intercity",290,300,10,0.034482759,10,10,0,31400,28100,20320,36950,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,53-3022,"Bus Drivers, School or Special Client",3450,3460,10,0.002898551,60,0,60,35670,34840,25560,40720,High school diploma or equivalent,None,Short-term on-the-job training
+4,53-3031,Driver/Sales Workers,1480,1520,40,0.027027027,40,20,20,25680,21990,16890,30080,High school diploma or equivalent,None,Short-term on-the-job training
+4,53-3032,Heavy and Tractor-Trailer Truck Drivers,4390,4500,110,0.025056948,120,50,70,42080,40740,30960,47640,Postsecondary non-degree award,None,Short-term on-the-job training
+4,53-3033,Light Truck or Delivery Services Drivers,3050,3090,40,0.013114754,70,20,50,35000,32260,20910,42040,High school diploma or equivalent,None,Short-term on-the-job training
+4,53-3041,Taxi Drivers and Chauffeurs,1840,1860,20,0.010869565,30,10,20,24660,23660,19800,27090,Less than high school,None,Short-term on-the-job training
+4,53-3099,"Motor Vehicle Operators, All Other",300,310,10,0.033333333,10,0,10,31290,32550,18110,37880,High school diploma or equivalent,None,Short-term on-the-job training
+3,53-4000,Rail Transportation Workers,250,260,10,0.04,20,10,10,n/a,n/a,n/a,n/a, , , 
+4,53-4011,Locomotive Engineers,70,80,10,0.142857143,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,53-4031,Railroad Conductors and Yardmasters,140,150,10,0.071428571,0,0,0,n/a,n/a,n/a,n/a,High school diploma or equivalent,None,Moderate-term on-the-job training
+3,53-5000,Water Transportation Workers,110,110,0,0,0,0,0,n/a,n/a,n/a,n/a, , , 
+3,53-6000,Other Transportation Workers,1270,1270,0,0,60,10,50,n/a,n/a,n/a,n/a, , , 
+4,53-6021,Parking Lot Attendants,390,390,0,0,20,0,20,23050,21740,17040,26050,Less than high school,None,Short-term on-the-job training
+4,53-6031,Automotive and Watercraft Service Attendants,290,290,0,0,10,0,10,23100,23030,17200,26060,Less than high school,None,Short-term on-the-job training
+4,53-6051,Transportation Inspectors,140,150,10,0.071428571,0,0,0,65750,58060,38640,79310,High school diploma or equivalent,None,Moderate-term on-the-job training
+4,53-6061,"Transportation Attendants, Except Flight Attendants",230,240,10,0.043478261,10,10,0,26350,23480,17100,30980,High school diploma or equivalent,None,Short-term on-the-job training
+3,53-7000,Material Moving Workers,11700,12080,380,0.032478632,530,190,340,n/a,n/a,n/a,n/a, , , 
+4,53-7011,Conveyor Operators and Tenders,60,60,0,0,0,0,0,41630,43670,29700,47590,Less than high school,None,Short-term on-the-job training
+4,53-7021,Crane and Tower Operators,100,100,0,0,0,0,0,44970,45460,32130,51390,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,53-7032,Excavating and Loading Machine and Dragline Operators,160,160,0,0,0,0,0,47750,46110,29450,56900,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+4,53-7051,Industrial Truck and Tractor Operators,1070,1090,20,0.018691589,30,10,20,34400,34240,23180,40010,Less than high school,None,Short-term on-the-job training
+4,53-7061,Cleaners of Vehicles and Equipment,910,920,10,0.010989011,30,0,30,22210,19600,17200,24720,Less than high school,None,Short-term on-the-job training
+4,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",6360,6590,230,0.036163522,320,120,200,30800,30100,19970,36210,Less than high school,None,Short-term on-the-job training
+4,53-7063,Machine Feeders and Offbearers,90,90,0,0,0,0,0,30450,27260,20280,35530,Less than high school,None,Short-term on-the-job training
+4,53-7064,"Packers and Packagers, Hand",2420,2510,90,0.037190083,120,50,70,25850,22890,17160,30190,Less than high school,None,Short-term on-the-job training
+4,53-7081,Refuse and Recyclable Material Collectors,400,410,10,0.025,20,10,10,34260,34300,25020,38880,Less than high school,None,Short-term on-the-job training
+4,53-7199,"Material Moving Workers, All Other",70,70,0,0,0,0,0,32320,31870,25330,35810,Less than high school,None,Short-term on-the-job training
