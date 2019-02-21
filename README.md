@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupytercalpoly/rich-context-demo/master?urlpath=lab/tree/src/Notebook.ipynb)
 
-The goal of this repo is to demo the recent [Rich Context](https://github.com/jupyterlab/jupyterlab/issues/5813) work on JupyterLab, by building togetherthe [databus](https://github.com/jupyterlab/jupyterlab/pull/5857), [metadata](https://github.com/jupyterlab/jupyterlab-metadata-service), and [commenting](https://github.com/jupyterlab/jupyterlab-commenting) features with some sample data and notebooks.
+Demos the [Rich Context](https://github.com/jupyterlab/jupyterlab/issues/5813) work on JupyterLab, by building together the [databus](https://github.com/jupyterlab/jupyterlab/pull/5857), [metadata](https://github.com/jupyterlab/jupyterlab-metadata-service), and [commenting](https://github.com/jupyterlab/jupyterlab-commenting) features with some sample data and notebooks.
 
 This uses [`repo2docker`](https://repo2docker.readthedocs.io/en/latest/usage.html) to create a Dockerfile, build it, and start it up:
 
