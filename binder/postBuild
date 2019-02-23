@@ -7,12 +7,12 @@ cd build
 
 git clone --single-branch --branch databus https://github.com/jupyterlab/jupyterlab.git
 cd jupyterlab
-git checkout 119d39472c194f9878e6bc38e5d69d6912c3379d
+git checkout a663c8305
 cd ..
 
 git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git
 cd jupyterlab-metadata-service
-git checkout b519fd5dfae23423f0223f63ac9cbe8debbf902d
+git checkout 028dc5764d5fa9043cc5860a7e89757caaff0799
 cd backend
 pip install -e .
 cd jupyterlab_metadata_service_server
@@ -21,7 +21,7 @@ cd ../../..
 
 git clone https://github.com/jupyterlab/jupyterlab-commenting.git
 cd jupyterlab-commenting
-git checkout 50657301f91b59597b07c8a0d90c97c87695ea0b
+git checkout 4647c463ca5de0c34303307b4e27d68d86809b78
 cd ..
 
 cd jupyterlab
