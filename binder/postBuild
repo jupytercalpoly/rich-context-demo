@@ -21,7 +21,7 @@ cd ../../..
 
 git clone https://github.com/jupyterlab/jupyterlab-commenting.git
 cd jupyterlab-commenting
-git checkout b9a07b6351f3a7a9de5c16a73116e4f95f331b15
+git checkout c6b01504fe16f9899927df9059933a6f36b6764e
 cd ..
 
 cd jupyterlab
