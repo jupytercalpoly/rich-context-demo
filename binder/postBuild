@@ -7,7 +7,7 @@ cd build
 
 git clone --single-branch --branch databus https://github.com/jupyterlab/jupyterlab.git
 cd jupyterlab
-git checkout 7014fba58
+git checkout c218a0dfa
 cd ..
 
 git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git
