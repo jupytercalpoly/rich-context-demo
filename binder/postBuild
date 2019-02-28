@@ -12,7 +12,7 @@ cd ..
 
 git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git
 cd jupyterlab-metadata-service
-git checkout 87f165bf076a8e45cece9a44bd45eca4b9cdf7a4
+git checkout 45bc5ed9cf369ffa60a200b19ce9aa3a65bae504
 cd backend
 pip install -e .
 cd jupyterlab_metadata_service_server
@@ -21,7 +21,7 @@ cd ../../..
 
 git clone https://github.com/jupyterlab/jupyterlab-commenting.git
 cd jupyterlab-commenting
-git checkout c6b01504fe16f9899927df9059933a6f36b6764e
+git checkout a87f0185656e72cf567f78eb7fa83c07ae87aa31
 cd ..
 
 cd jupyterlab
