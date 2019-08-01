@@ -2,32 +2,7 @@
 set -o errexit
 set -o xtrace
 
-mkdir build
-cd build
-
-git clone --single-branch --branch databus https://github.com/jupyterlab/jupyterlab.git
-cd jupyterlab
-git checkout c218a0dfa
-cd ..
-
-git clone https://github.com/jupyterlab/jupyterlab-metadata-service.git
-cd jupyterlab-metadata-service
-git checkout 45bc5ed9cf369ffa60a200b19ce9aa3a65bae504
-cd backend
-pip install -e .
-cd jupyterlab_metadata_service_server
-npm install
-cd ../../..
-
-git clone https://github.com/jupyterlab/jupyterlab-commenting.git
-cd jupyterlab-commenting
-git checkout a87f0185656e72cf567f78eb7fa83c07ae87aa31
-cd ..
-
-cd jupyterlab
-pip install -e .
-jlpm run add:sibling ../jupyterlab-metadata-service/frontend
-jlpm run add:sibling ../jupyterlab-commenting
-jlpm build:dev
-jupyter lab build --dev
-cd ../..
+jupyter labextension install \
+    @jupyterlab/dataregistry-extension \
+    @jupyterlab/commenting-extension \
+    @jupyterlab/metadata-extension

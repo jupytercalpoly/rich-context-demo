@@ -1,6 +1,0 @@
-version: "1"
-datasets:
-    - url: "file:///data/adrf-000005.csv"
-    - url: "file:///data/adrf-000014.csv"
-    - url: "file:///data/adrf-000015.csv"
-    - url: "https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv"
