@@ -3,6 +3,6 @@ set -o errexit
 set -o xtrace
 
 jupyter labextension install \
-    @jupyterlab/dataregistry-extension \
-    @jupyterlab/commenting-extension \
-    @jupyterlab/metadata-extension
+    @jupyterlab/dataregistry-extension@3.0.0 \
+    @jupyterlab/commenting-extension@0.2.0 \
+    @jupyterlab/metadata-extension@2.0.0

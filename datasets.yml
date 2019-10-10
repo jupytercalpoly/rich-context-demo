@@ -1,0 +1,13 @@
+children:
+  - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-2b4bcbd0e00931b60b49"
+datasets:
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-2b4bcbd0e00931b60b49"
+    label: "SITS"
+    children:
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-2cea7e830ce94a923473"
+    snippets:
+      Load in Pandas: "import pandas as pd\n\ndf = pd.read_csv('data/adrf-000023.csv')\ndf"
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-2cea7e830ce94a923473"
+    label: "Publication"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."
